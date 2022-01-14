@@ -1,0 +1,40 @@
+--- 
+title: "Bioconductor Working Groups: Guidelines and activities"
+author:
+  - Kevin Rue-Albrecht
+  - Stephanie Hicks
+  - Lori Shepherd
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Welcome {-}
+
+## About Bioconductor {.unnumbered}
+
+```{r, fig.align='center', echo=FALSE, out.height="200px"}
+knitr::include_graphics("https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/Bioconductor/Bioconductor.png")
+```
+
+[_Bioconductor_](https://bioconductor.org/) provides tools for the analysis and comprehension of high-throughput genomic data [@huber2015orchestrating].
+
+[_Bioconductor_](https://bioconductor.org/) uses the <i class="fab fa-r-project"></i> statistical programming language [@r2022], and is open source and open development. It has two releases each year, and an active user community.
+
+[_Bioconductor_](https://bioconductor.org/) is also available as [Docker](https://bioconductor.org/help/docker/) images.
+
+## Contribute {.unnumbered}
+
+This book is open-source and hosted at <https://github.com/Bioconductor/BiocWorkingGroups>.
+Contributions are welcome and encouraged in the form of forks and pull requests.
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

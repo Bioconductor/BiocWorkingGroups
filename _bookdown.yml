@@ -1,0 +1,9 @@
+book_filename: "bioconductor-working-groups"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files: ["index.Rmd",
+           "references.Rmd",
+           "appendix.Rmd"]
+clean: [packages.bib]
