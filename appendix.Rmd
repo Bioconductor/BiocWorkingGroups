@@ -1,0 +1,7 @@
+# (APPENDIX) Appendix {-}
+
+# NEWS {#booknews}
+
+## Version 1.0.0 (2022-01-14)
+
+- Set up bookdown template.
