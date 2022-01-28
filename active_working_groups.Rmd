@@ -71,7 +71,7 @@ documentation. Its current focus is to update, clean up, and reorganize the
 material presented at http://contributions.bioconductor.org/. This is <b>not</b> the
 group to volunteer to become a Bioconductor package reviewer. This group is to
 refine the requirements for a Bioconductor package.
-- Links: https://github.com/Bioconductor/pkgrevdocs
+- Links: https://github.com/Bioconductor/pkgrevdocs, https://contribution.bioconductor.org
 - Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
 - Current Members: Lori, Kayla, Johannes, Yagoub, Martin, Kevin, Estefi, Mike, Daniela
 

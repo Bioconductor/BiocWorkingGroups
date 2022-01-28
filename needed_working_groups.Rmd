@@ -10,3 +10,14 @@ active or listed here, you can either contact Lori.Shepherd@Roswellpark.org or
 submit a pull requested providing Description, Lead, Initial Members, and any
 other relevent links.</p>
 
+## Package Build Report Triage
+
+- Description: This committee would be responsible for reaching out to ERRORing
+  package maintainers to fix their package and identify inactive packages for
+  deprecation. While we have autonotificaiton of failure, many (most)
+  maintainers ignore and are not good about checking the provided build
+  reports. The core team has found that sending personalized emails greatly
+  increases the likelihood of a maintainer to fix the package.
+- Links: https://bioconductor.org/checkResults/
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> 
+- Current Members: I need members!!
