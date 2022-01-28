@@ -1,0 +1,12 @@
+# Needed Working Groups / Committees
+
+<p>This is a list of suggested working groups / committees with intended
+focus. These groups still need a lead to organize and move the project goals
+forwards.  If you are interested in starting one of these listed working groups
+please contact Lori.Shepherd@RoswellPark.org.</p>
+
+<p>If you have an idea for a working group or committee that is not currently
+active or listed here, you can either contact Lori.Shepherd@Roswellpark.org or
+submit a pull requested providing Description, Lead, Initial Members, and any
+other relevent links.</p>
+

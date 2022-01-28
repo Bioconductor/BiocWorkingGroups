@@ -1,0 +1,9 @@
+# Working Group and Committee Guidelines
+
+This defines the guidelines for Bioconductor Working Groups and
+Committees. Working groups have specific short term goals / deliverables they
+work toward and then disband. Committees have long-term standing to provide
+strategic guidance or continued support and structure.
+
+
+
