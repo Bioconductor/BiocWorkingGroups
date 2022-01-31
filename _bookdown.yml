@@ -4,6 +4,10 @@ language:
   ui:
     chapter_name: "Chapter "
 rmd_files: ["index.Rmd",
+	   "guidelines.Rmd",
+	   "active_working_groups.Rmd",
+	   "needed_working_groups.Rmd",
+	   "inactive_working_groups.Rmd",
            "references.Rmd",
            "appendix.Rmd"]
 clean: [packages.bib]

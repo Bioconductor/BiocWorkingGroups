@@ -1,0 +1,14 @@
+# Inactive Working Groups
+
+These are legacy working groups that may have achieved their goals and now are
+currently inactive. If you think there is a need to re-establish one of the
+listed groups please contact the listed Lead and Lori.Shepherd@RoswellPark.org.
+
+## BiocAwards
+
+- Description: In 2020, Bioconductor established annual Bioconductor awards to
+recognize outstanding contributions to the Bioconductor community. This
+committee meets annually to conduct nominations and voting. 
+- Links: https://bioconductor.org/about/awards/
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> and Simone Bell
+- Current Members: Lori Shepherd and Simone Bell

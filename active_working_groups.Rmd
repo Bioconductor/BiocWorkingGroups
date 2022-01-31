@@ -1,0 +1,104 @@
+# Currently Active Working Groups / Committees 
+
+The following describe currently active working groups listed in alphabetical
+order. If you are interested in becoming involved with one of these groups
+please contact the group leader(s).
+
+
+## Code of Conduct
+
+- Description:
+- Links:
+- Leads: Saskia 
+- Current Members:
+
+## Conference Planning
+
+- Description:
+- Links:
+- Leads: Levi 
+- Current Members:
+
+
+## Developers Training
+
+- Description:
+- Links:
+- Leads: Mike, Kevin
+- Current Members:
+
+## Education
+
+- Description:
+- Links:
+- Leads: Laurent, Charlotte, Kevin
+- Current Members:
+
+## Governance
+
+- Description:
+- Links:
+- Leads: Levi, Aedin, Charlotte
+- Current Members: Levi, Aedin, Charlotte, Vince, Lori
+
+## Hubs
+
+- Description:
+- Links:
+- Leads: Levi
+- Current Members: Levi, Lori
+
+## Infrastructure
+
+- Description:
+- Links:
+- Leads: Levi
+- Current Members: Levi, Lori, Herve, Vince
+
+## Multilingual
+
+- Description:
+- Links:
+- Leads: Leo, Kozo, Daniela, Kevin
+- Current Members:
+
+## Package Review
+
+- Description: The package review working group was established to review and
+revise the current review process for Bioconductor. It also was tasked with
+updating Bioconductor package guidelines and package submission
+documentation. Its current focus is to update, clean up, and reorganize the
+material presented at http://contributions.bioconductor.org/. This is <b>not</b> the
+group to volunteer to become a Bioconductor package reviewer. This group is to
+refine the requirements for a Bioconductor package.
+- Links: https://github.com/Bioconductor/pkgrevdocs, https://contribution.bioconductor.org
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
+- Current Members: Lori, Kayla, Johannes, Yagoub, Martin, Kevin, Estefi, Mike, Daniela
+
+## Privacy
+
+- Description:
+- Links:
+- Leads: Katerina
+- Current Members: Katerina, Vince, Mike
+
+## Publication
+
+- Description:
+- Links:
+- Leads: Susan
+- Current Members:
+
+## Recommended classes and methods
+
+- Description:
+- Links:
+- Leads: 
+- Current Members: Vince, Laurent, Jo, Lori
+
+## Spatial and Multi-omics
+
+- Description:
+- Links:
+- Leads: Stephanie 
+- Current Members: 
