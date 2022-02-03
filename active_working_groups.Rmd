@@ -29,10 +29,10 @@ please contact the group leader(s).
 
 ## Education
 
-- Description:
-- Links:
-- Leads: Laurent, Charlotte, Kevin
-- Current Members:
+- Description: The Bioconductor teaching committee is a collaborative effort to consolidate Bioconductor-focused training material and establish a community of Bioconductor trainers. We define a curriculum and implement online lessons for beginner and more advanced R users who want to learn to analyse their data with Bioconductor packages.
+- Links: https://github.com/bioconductor/bioconductor-teaching
+- Leads: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht
+- Current Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges 
 
 ## Governance
 
