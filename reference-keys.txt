@@ -7,6 +7,7 @@ education
 governance
 hubs
 infrastructure
+mass-spectrometry-for-proteomics-and-metabolomics
 multilingual
 package-review
 privacy
