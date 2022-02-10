@@ -84,7 +84,11 @@ refine the requirements for a Bioconductor package.
 
 ## Privacy
 
-- Description:
+- Description: Data privacy is an important topic to the Bioconductor project, 
+with its large community and many websites and services hosted by a variety of
+organisations around the globe.  This working group is engaged in making sure 
+that Bioconductor services meet both legal requirements and community 
+expectations regarding personal data privacy.
 - Links:
 - Leads: Katerina
 - Current Members: Katerina, Vince, Mike
