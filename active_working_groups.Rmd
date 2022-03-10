@@ -57,10 +57,14 @@ please contact the group leader(s).
 
 ## Mass Spectrometry for Proteomics and Metabolomics
 
-- Description: The goal of this working group is to identify members of the Bioconductor community that are interested and/or active in the area of mass spectrometry, proteomics and/or metabolomics and define technical needs or community expectations to prioritise future developments. More specifically, we suggest the following steps.
+- Description: The goal of this working group is to identify members of the
+  Bioconductor community that are interested and/or active in the area of mass
+  spectrometry, proteomics and/or metabolomics and define technical needs or
+  community expectations to prioritise future developments.
 - Links: https://github.com/lgatto/BiocMassSpecWorkingGroup
 - Leads: Laurent Gatto (TAB) and Johannes Rainer (CAB) 
-- Current Members: Lauent, Johannes
+- Current Members: Lauent, Johannes. A call for people interested to join will
+  be opened soon.
 
 ## Multilingual
 
