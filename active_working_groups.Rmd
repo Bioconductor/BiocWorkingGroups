@@ -7,53 +7,53 @@ please contact the group leader(s).
 
 ## Code of Conduct
 
-- Description:
-- Links:
-- Leads: Saskia 
-- Current Members:
+- Description: The Code of Conduct Committee reviews and revises the
+  Bioconductor Code of Conduct as needed. There is also a large effort to
+  translate the Code of Code to multiple languages.
+- Links: https://github.com/Bioconductor/bioc_coc_multilingual
+- Slack: private channel
+- Leads: Saskia Freytag
+- Current Members: Kevin Rue-Albrecht, Johannes Rainer
 
 ## Conference Planning
 
-- Description:
-- Links:
-- Leads: Levi 
-- Current Members:
+- Description: Organizes and Plans the Annual Conference.
+- Links: [Conference planning Document](https://docs.google.com/document/d/1fsNpeeiWvCzzJXXKS0c75sWiN-nhZVACpMiBp_kOn1o/edit?usp=sharing)
+- Slack: #bioc-conference-organization, #bioc-conference-web
+- Leads: Levi Waldron, Erica Feick
+- Current Members: Charlotte Soneson, Jenny D, Jenny S, Lori, Marc, Andrew, Daniela, Matt, Mikhail, Samuel, Krithika, Sean, Wes
 
 
 ## Developers Training
 
-- Description:
-- Links:
-- Leads: Mike, Kevin
-- Current Members:
+- Description: This group aims to help create and promote development
+  discussions and opportunities within the Bioconductor organization. This
+  includes organizing developer forum talks, collating material on the
+  Bioconductor YouTube channel, and monitoring the new developer mentorship
+  program.
+- Links: [New Developer Training Program](http://bioconductor.org/developers/new-developer-program/), [Playlist on Bioconductor YouTube](https://www.youtube.com/watch?v=CcJgcDy2qEI&list=PLdl4u5ZRDMQQLMupAtEzm2y4gUIUm_1n6)
+- Slack: #developers-mentorship, #developers-forum
+- Leads: Mike Smith, Kevin Rue-Albrecht
+- Current Members: Aedin Culhane, Lori Shepherd
 
 ## Education
 
 - Description: The Bioconductor teaching committee is a collaborative effort to consolidate Bioconductor-focused training material and establish a community of Bioconductor trainers. We define a curriculum and implement online lessons for beginner and more advanced R users who want to learn to analyse their data with Bioconductor packages.
 - Links: https://github.com/bioconductor/bioconductor-teaching
+- Slack: #education-and-training
 - Leads: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht
 - Current Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges 
 
 ## Governance
 
-- Description:
+- Description: This group is re-evaluating with potential to restructure the
+  governance and organiztion of _Bioconductor_. This includes but not limited to
+  the current Scientific, Community, and Technical Boards as well as the
+  Bioconductor Foundation.
 - Links:
-- Leads: Levi, Aedin, Charlotte
-- Current Members: Levi, Aedin, Charlotte, Vince, Lori
-
-## Hubs
-
-- Description:
-- Links:
-- Leads: Levi
-- Current Members: Levi, Lori
-
-## Infrastructure
-
-- Description:
-- Links:
-- Leads: Levi
-- Current Members: Levi, Lori, Herve, Vince
+- Slack: #biocoductor-governance
+- Leads: Charlotte Soneson, Vince Carey
+- Current Members: Levi Waldron, Aedin Culhane, Charlotte Soneson, Vince Carey, Lori Shepherd
 
 ## Mass Spectrometry for Proteomics and Metabolomics
 
@@ -62,15 +62,17 @@ please contact the group leader(s).
   spectrometry, proteomics and/or metabolomics and define technical needs or
   community expectations to prioritise future developments.
 - Links: https://github.com/lgatto/BiocMassSpecWorkingGroup
+- Slack: #mass-spectrometry, #metabolomics, #proteomics
 - Leads: Laurent Gatto (TAB) and Johannes Rainer (CAB) 
 - Current Members: Lauent, Johannes. A call for people interested to join will
   be opened soon.
 
 ## Multilingual
 
-- Description:
-- Links:
-- Leads: Leo, Kozo, Daniela, Kevin
+- Description: The multiligual group is focused on translating and hosting
+  Bioconductor material in multiple languages. Help is always appreciated!
+- Links: [CoC](https://github.com/Bioconductor/bioc_coc_multilingual), [talks_and_transcripts](https://github.com/BioconductorBoards/CABWorkingGroups/tree/main/talks_and_transcripts)
+- Leads: Leonardo Collado-Torres, Kozo Nishida, Daniela Cassol, Kevin Rue-Albrecht
 - Current Members:
 
 ## Package Review
@@ -83,8 +85,10 @@ material presented at http://contributions.bioconductor.org/. This is <b>not</b>
 group to volunteer to become a Bioconductor package reviewer. This group is to
 refine the requirements for a Bioconductor package.
 - Links: https://github.com/Bioconductor/pkgrevdocs, https://contribution.bioconductor.org
+- Slack: #package-submission, #reviewers
 - Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
-- Current Members: Lori, Kayla, Johannes, Yagoub, Martin, Kevin, Estefi, Mike, Daniela
+- Current Members: Lori Shepherd, Kayla Interdonato, Johannes Rainer, Yagoub
+Adam, Kevin Rue-Albrecht, Estefania Mancini, Mike Smith, Daniela Cassol
 
 ## Privacy
 
@@ -94,26 +98,27 @@ organisations around the globe.  This working group is engaged in making sure
 that Bioconductor services meet both legal requirements and community 
 expectations regarding personal data privacy.
 - Links:
-- Leads: Katerina
-- Current Members: Katerina, Vince, Mike
+- Leads:
+- Current Members: Vince Carey, Mike Smith
+- Past Members: Katermina Kechris
 
 ## Publication
 
 - Description:
 - Links:
-- Leads: Susan
+- Leads: Susan Holmes
 - Current Members:
 
 ## Recommended classes and methods
 
 - Description:
 - Links:
-- Leads: 
-- Current Members: Vince, Laurent, Jo, Lori
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
+- Current Members: Vince Cary, Laurent Gatto, Johannes Rainer
 
 ## Spatial and Multi-omics
 
 - Description:
 - Links:
-- Leads: Stephanie 
+- Leads: Stephanie Hicks
 - Current Members: 
