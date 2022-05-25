@@ -1,4 +1,4 @@
-# Guidelines
+# Working Group and Committee Guidelines
 
 This defines the guidelines for Bioconductor Working Groups and
 Committees. Working groups have specific short term goals / deliverables they

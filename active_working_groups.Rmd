@@ -24,7 +24,6 @@ please contact the group leader(s).
 - Current Members: Charlotte Soneson, Jenny D, Jenny S, Lori, Marc, Andrew, Daniela, Matt, Mikhail, Samuel, Krithika, Sean, Wes
 
 
-
 ## Developers Training
 
 - Description: This group aims to help create and promote development
