@@ -1,4 +1,4 @@
-# Working Group and Committee Guidelines
+# Guidelines
 
 This defines the guidelines for Bioconductor Working Groups and
 Committees. Working groups have specific short term goals / deliverables they
@@ -6,4 +6,25 @@ work toward and then disband. Committees have long-term standing to provide
 strategic guidance or continued support and structure.
 
 
+## Starting a Working Group or Committee {.unnumbered}
+
+If you have an idea for a working group or committee that is not currently
+listed as [active](#currently-active-working-groups-committees) or
+[needed](#needed-working-groups-committees), you can either contact
+Lori.Shepherd@Roswellpark.org or submit a [pull
+request](https://github.com/Bioconductor/BiocWorkingGroups/pulls) providing
+Description, Lead, Initial Members, any relevent links, justification for
+necessity, and initial goals. The Technical Advisory Board and/or Community
+Advisory Board will review the information and provide any feedback before
+initilization.
+
+## Reporting {.unnumbered}
+
+When initilized, it will be determined whether reports of progress should be
+reported to the Technical Advisory Board, Community Advisory Board, or
+other. Forward movement on objectives and goals will be expected.
+
+## Code of Conduct {.unnumbered}
+
+Participants will be expected to follow the [_Bioconductor_ Code of Conduct](http://bioconductor.org/about/code-of-conduct/).
 

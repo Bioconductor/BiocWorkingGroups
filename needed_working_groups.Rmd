@@ -20,4 +20,5 @@ other relevent links.</p>
   increases the likelihood of a maintainer to fix the package.
 - Links: https://bioconductor.org/checkResults/
 - Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> 
-- Current Members: I need members!!
+- Current Members: Johannes Rainer. I need more members! Please if interested
+  please email or slack

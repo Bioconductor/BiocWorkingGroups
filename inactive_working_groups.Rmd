@@ -8,7 +8,8 @@ listed groups please contact the listed Lead and Lori.Shepherd@RoswellPark.org.
 
 - Description: In 2020, Bioconductor established annual Bioconductor awards to
 recognize outstanding contributions to the Bioconductor community. This
-committee meets annually to conduct nominations and voting. 
+committee meets annually starting roughly 4-6 months before the annual
+conference to conduct nominations and voting. 
 - Links: https://bioconductor.org/about/awards/
 - Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> and Simone Bell
 - Current Members: Lori Shepherd and Simone Bell

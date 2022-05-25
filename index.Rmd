@@ -15,17 +15,18 @@ description: "This is a minimal example of using the bookdown package to write a
 
 # Welcome {-}
 
-## About Bioconductor {.unnumbered}
+## Bioconductor Working Groups and Committees {.unnumbered}
 
 ```{r, fig.align='center', echo=FALSE, out.height="200px"}
 knitr::include_graphics("https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/Bioconductor/Bioconductor.png")
 ```
 
-[_Bioconductor_](https://bioconductor.org/) provides tools for the analysis and comprehension of high-throughput genomic data [@huber2015orchestrating].
+This website is designed to list and define the guidelines for
+[_Bioconductor_](https://bioconductor.org/) Working Groups and
+Committees. Working groups have specific short term goals / deliverables they
+work toward and then disband. Committees have long-term standing to provide
+strategic guidance or continued support and structure.
 
-[_Bioconductor_](https://bioconductor.org/) uses the <i class="fab fa-r-project"></i> statistical programming language [@r2022], and is open source and open development. It has two releases each year, and an active user community.
-
-[_Bioconductor_](https://bioconductor.org/) is also available as [Docker](https://bioconductor.org/help/docker/) images.
 
 ## Contribute {.unnumbered}
 
