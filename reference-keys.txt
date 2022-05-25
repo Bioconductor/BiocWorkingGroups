@@ -1,12 +1,10 @@
 working-group-and-committee-guidelines
 currently-active-working-groups-committees
-code-of-conduct
+code-of-conduct-1
 conference-planning
 developers-training
 education
 governance
-hubs
-infrastructure
 mass-spectrometry-for-proteomics-and-metabolomics
 multilingual
 package-review
