@@ -18,7 +18,6 @@ please contact the group leader(s).
 ## Conference Planning
 
 - Description: Organizes and Plans the Annual Conference.
-- Links: [Conference planning Document](https://docs.google.com/document/d/1fsNpeeiWvCzzJXXKS0c75sWiN-nhZVACpMiBp_kOn1o/edit?usp=sharing)
 - Slack: #bioc-conference-organization, #bioc-conference-web
 - Leads: Levi Waldron, Erica Feick
 - Current Members: Charlotte Soneson, Jenny D, Jenny S, Lori, Marc, Andrew, Daniela, Matt, Mikhail, Samuel, Krithika, Sean, Wes
