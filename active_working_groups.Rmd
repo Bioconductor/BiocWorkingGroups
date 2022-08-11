@@ -37,11 +37,11 @@ please contact the group leader(s).
 
 ## Education
 
-- Description: The Bioconductor teaching committee is a collaborative effort to consolidate Bioconductor-focused training material and establish a community of Bioconductor trainers. We define a curriculum and implement online lessons for beginner and more advanced R users who want to learn to analyse their data with Bioconductor packages.
+- Description: The Bioconductor teaching and education committee is a collaborative effort to consolidate Bioconductor-focused training material and establish a community of Bioconductor trainers. We define a curriculum and implement online lessons for beginner and more advanced R users who want to learn to analyse their data with Bioconductor packages.
 - Links: https://github.com/bioconductor/bioconductor-teaching
 - Slack: #education-and-training
 - Leads: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht
-- Current Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges 
+- Current Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges, Susan Holmes
 
 ## Governance
 
@@ -103,10 +103,10 @@ expectations regarding personal data privacy.
 
 ## Publication
 
-- Description:
+- Description: Publication discussion with F1000R and other venues that enable publication of workflows, BioC material from workshops or package presentations. This working group is trying to make it easier and less expensive to publish papers on BioC advances that can be kept up to date while still providing DOI and valid publication metadata so that there is a citation and recognition mechanism. Highly interested in new Overlay publishing and using quarto for new publication models.
 - Links:
 - Leads: Susan Holmes
-- Current Members:
+- Current Members: Susan, Sean Davis,
 
 ## Recommended classes and methods
 
