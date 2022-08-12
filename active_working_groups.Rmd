@@ -121,3 +121,11 @@ expectations regarding personal data privacy.
 - Links:
 - Leads: Stephanie Hicks
 - Current Members: 
+
+## Industry
+
+- Description: Many Bioconductor users are from industry. Yet industry users aren't a large voice in the Bioconductor community. This working group is centered around collaborating and engaging with industry users. Topics of interest include: how to get more industry users participating with the community, what guidelines can be established to bolster the community relationship with industry, and much more.
+- Links:
+- Slack: #industry
+- Leads: Nicole Ortogero, David Henderson
+- Current Members: 
