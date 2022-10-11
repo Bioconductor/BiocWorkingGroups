@@ -13,6 +13,7 @@ publication
 recommended-classes-and-methods
 spatial-and-multi-omics
 industry
+website
 needed-working-groups-committees
 package-build-report-triage
 inactive-working-groups
