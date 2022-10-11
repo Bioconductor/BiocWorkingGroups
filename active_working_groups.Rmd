@@ -129,3 +129,12 @@ expectations regarding personal data privacy.
 - Slack: #industry
 - Leads: Nicole Ortogero, David Henderson
 - Current Members: 
+
+## Website
+
+- Description: The Website working group will create the list of requirements for the Bioconductor website redesign.
+- Links: 
+- Slack: #bioc-website
+- Leads: Maria Doyle, Aedin Culhane, Lori Shepherd
+- Current Members:
+
