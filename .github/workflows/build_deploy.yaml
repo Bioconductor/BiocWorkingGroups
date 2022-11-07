@@ -20,8 +20,9 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
 
-      - name: Set up pandoc
-        uses: r-lib/actions/setup-pandoc@v2
+      # No need to install pandoc in this docker container
+      # - name: Set up pandoc
+      #   uses: r-lib/actions/setup-pandoc@v2
 
       - name: Install TinyTeX
         uses: r-lib/actions/setup-tinytex@v2
