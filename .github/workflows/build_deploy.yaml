@@ -23,6 +23,10 @@ jobs:
       # No need to install pandoc in this docker container
       # - name: Set up pandoc
       #   uses: r-lib/actions/setup-pandoc@v2
+      
+      - name: Update apt-get
+        run: |
+          sudo apt-get update
 
       - name: Install TinyTeX
         uses: r-lib/actions/setup-tinytex@v2
