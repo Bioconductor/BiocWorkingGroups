@@ -138,3 +138,10 @@ expectations regarding personal data privacy.
 - Leads: Maria Doyle, Aedin Culhane, Lori Shepherd
 - Current Members:
 
+## Social Media
+
+- Description: Group for creating Bioconductor strategy, guidelines etc for social media (Blog, Twitter, Mastodon, YouTube, LinkedIn, Instagram, TikTok, Bilibili, WeChat, Weibo...).
+- Links: 
+- Slack: #social-media
+- Leads: Maria Doyle
+- Current Members: 
