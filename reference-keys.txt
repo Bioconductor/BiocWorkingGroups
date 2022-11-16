@@ -14,6 +14,7 @@ recommended-classes-and-methods
 spatial-and-multi-omics
 industry
 website
+social-media
 needed-working-groups-committees
 package-build-report-triage
 inactive-working-groups
