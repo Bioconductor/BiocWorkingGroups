@@ -135,8 +135,8 @@ expectations regarding personal data privacy.
 - Description: The Website working group will create the list of requirements for the Bioconductor website redesign.
 - Links: 
 - Slack: #biocwebsite
-- Leads: Maria Doyle, Aedin Culhane, Lori Shepherd
-- Current Members:
+- Leads: Maria Doyle, Lori Shepherd, Aedin Culhane 
+- Current Members: Kevin Rue-Albrecht, Susan Holmes, Vince Carey, Alex Mahmoud, Marcel Ramos, Hédia Thani, Shila Ghazanfar, Laurent Gatto
 
 ## Social Media
 
