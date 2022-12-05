@@ -110,10 +110,10 @@ expectations regarding personal data privacy.
 
 ## Recommended classes and methods
 
-- Description:
-- Links:
-- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
-- Current Members: Vince Cary, Laurent Gatto, Johannes Rainer
+- Description: Discussions arounnd Bioconductor 'official' classes and methods and how to articulate their benefits to increase their usage across the ecosystem, in particular in new contributions.
+- Links: https://github.com/Bioconductor/BiocClassesWorkingGroup
+- Leads: Laurent Gatto 
+- Current Members: Vince Cary, Laurent Gatto, Johannes Rainer, Lori Shepherd
 
 ## Spatial and Multi-omics
 
