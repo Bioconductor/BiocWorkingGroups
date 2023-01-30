@@ -26,10 +26,11 @@ other. Forward movement on objectives and goals will be expected.
 
 ## Adding new members {.unnumbered}
 
-New members to Working Groups, who are not already members of 
+New members to Working Groups or Committees, who are not already members of 
 CAB/TAB/Committees/Working Groups, should be passed through the Code of Conduct 
-committee (code-of-conduct@bioconductor.org) to make sure there are no issues 
-against them as a final approval.
+committee to make sure there are no issues against them as a final approval. 
+Email the current Chair of the [CoC committee](https://www.bioconductor.org/about/code-of-conduct/) 
+and request a CoC check for the new member.
 
 ## Code of Conduct {.unnumbered}
 
