@@ -2,6 +2,7 @@ working-group-and-committee-guidelines
 currently-active-working-groups-committees
 code-of-conduct-1
 conference-planning
+cloud-container-github-actions
 developers-training
 education
 governance
