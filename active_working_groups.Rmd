@@ -22,6 +22,15 @@ please contact the group leader(s).
 - Leads: Levi Waldron, Erica Feick
 - Current Members: Charlotte Soneson, Jenny D, Jenny S, Lori, Marc, Andrew, Daniela, Matt, Mikhail, Samuel, Krithika, Sean, Wes
 
+## Cloud, Container, Github Actions
+
+- Description: The goal of this group is to develop standards, best practices,
+  and tools for the Bioconductor community that are related to the cloud,
+  containers, and GitHub Actions.
+- Slack: #cloud-working-group
+- Leads: Alex Mahmoud, Jen Wokaty
+- Current Members: Levi Waldron, Marcel Ramos, Erdal Cosgun, Sridhar Srivatsan,
+  Brian Schilder, Vince Carey
 
 ## Developers Training
 
