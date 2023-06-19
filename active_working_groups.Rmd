@@ -153,3 +153,10 @@ expectations regarding personal data privacy.
 - Slack: #social-media
 - Leads: Maria Doyle
 - Current Members: Laurent Gatto, Susan Holmes, Federica Gazzelloni, İrem Kahveci, Hamdi Furkan Kepenek, Xueyi Dong, Shixiang Wang, Kozo Nishida
+
+## TeSS
+
+- Description: Group for updating connectivity between TeSS and Bioconductor (see https://tess.elixir-europe.org/content_providers/bioconductor) by implementing Bioschemas for Bioconductor training material. 
+- Slack: #elixir
+- Leads: Maria Doyle
+- Current Members: Maria Doyle, Laurent Gatto, Aedin Culhane,.....
