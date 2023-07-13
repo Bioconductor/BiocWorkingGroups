@@ -114,7 +114,7 @@ expectations regarding personal data privacy.
 - Description: Publication discussion with F1000R and other venues that enable publication of workflows, BioC material from workshops or package presentations. This working group is trying to make it easier and less expensive to publish papers on BioC advances that can be kept up to date while still providing DOI and valid publication metadata so that there is a citation and recognition mechanism. Highly interested in new Overlay publishing and using quarto for new publication models.
 - Links:
 - Leads: Susan Holmes
-- Current Members: Susan, Sean Davis,
+- Current Members: Susan, Sean Davis, Janani Ravi
 
 ## Recommended classes and methods
 
@@ -153,3 +153,10 @@ expectations regarding personal data privacy.
 - Slack: #social-media
 - Leads: Maria Doyle
 - Current Members: Laurent Gatto, Susan Holmes, Federica Gazzelloni, İrem Kahveci, Hamdi Furkan Kepenek, Xueyi Dong, Shixiang Wang, Kozo Nishida
+
+## BioC + R-Ladies
+- Description: The R-Ladies working group will foster a partnership between BioC and R-Ladies to encourage, support, and promote gender minorities at the intersection of computational biology/bioinformatics and data science. We will do this through co-hosted events, blog posts, and such.
+- Links: 
+- Slack: #r-ladies
+- Leads: Janani Ravi
+- Current Members: Janani Ravi, [Daniela Cassol, Aedin Culhane, Lori Shepherd, Stephanie Hicks, Heather Turner, ...]
