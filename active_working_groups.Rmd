@@ -161,3 +161,10 @@ expectations regarding personal data privacy.
 - Slack: #edam-collaboration
 - Leads: Claire Rioualen, Maria Doyle
 - Current Members: Vince Carey, Hervé Menager, Lori Shepherd, Johannes Rainer, Kozo Nishida
+
+## TeSS
+
+- Description: This group focuses on enhancing the connectivity and integration between the [TeSS (Training eSupport System)](https://tess.elixir-europe.org) portal and the Bioconductor project. Our objectives include implementing Bioschemas for Bioconductor training material and events to improve their discoverability and accessibility via TeSS (https://tess.elixir-europe.org/content_providers/bioconductor). We aim to strengthen the bridge between these platforms, facilitating easier access to Bioconductor training resources.
+- Slack: #elixir. A TeSS-specific channel may be created based on interest and participation.
+- Leads: Maria Doyle
+- Current Members: Maria Doyle, Laurent Gatto (contact Maria on Slack if interested to join this initiative)
