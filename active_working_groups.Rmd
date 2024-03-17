@@ -153,3 +153,11 @@ expectations regarding personal data privacy.
 - Slack: #social-media
 - Leads: Maria Doyle
 - Current Members: Laurent Gatto, Susan Holmes, Federica Gazzelloni, İrem Kahveci, Hamdi Furkan Kepenek, Xueyi Dong, Shixiang Wang, Kozo Nishida
+
+## EDAM collaboration
+
+- Description: This group unites EDAM and Bioconductor community members to explore indexing the Bioconductor ecosystem using the EDAM ontology. Our objectives include increasing the visibility of Bioconductor packages to a broader audience, including those not primarily using R, and expanding EDAM as a standard for annotating computational biology resources. Through this collaboration, we aim to synergize two large, international communities focused on open science. Future plans may include exploring connections with bio.tools, Bioschemas, and TeSS. If you're interested in contributing or want to learn more, join us on Slack.
+
+- Slack: #edam-collaboration
+- Leads: Claire Rioualen, Maria Doyle
+- Current Members: Vince Carey, Hervé Menager, Lori Shepherd, Johannes Rainer, Kozo Nishida
