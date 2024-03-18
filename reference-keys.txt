@@ -16,6 +16,8 @@ spatial-and-multi-omics
 industry
 website
 social-media
+edam-collaboration
+tess
 needed-working-groups-committees
 package-build-report-triage
 inactive-working-groups
