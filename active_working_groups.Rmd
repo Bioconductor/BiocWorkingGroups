@@ -153,3 +153,17 @@ expectations regarding personal data privacy.
 - Slack: #social-media
 - Leads: Maria Doyle
 - Current Members: Laurent Gatto, Susan Holmes, Federica Gazzelloni, İrem Kahveci, Hamdi Furkan Kepenek, Xueyi Dong, Shixiang Wang, Kozo Nishida
+
+## EDAM collaboration
+
+- Description: This group unites EDAM and Bioconductor community members to explore indexing the Bioconductor ecosystem using the EDAM ontology. EDAM stands for "EMBRACE Data and Methods". It's an ontology designed to precisely categorise and describe web-based bioinformatics tools, data, and databases. EDAM aims to facilitate the discovery, integration, and use of bioinformatics resources by providing a structured vocabulary that covers a wide range of terms in the field. This makes it easier for researchers and developers to find and connect the tools and data they need for their work in computational biology, genomics, and related areas. Our working group's objectives include increasing the visibility of Bioconductor packages to a broader audience, including those not primarily using R, and expanding EDAM as a standard for annotating computational biology resources. Through this collaboration, we aim to synergize two large, international communities focused on open science. Future plans may include exploring connections with bio.tools, Bioschemas, and TeSS. If you're interested in contributing or want to learn more, join us on Slack.
+- Slack: #edam-collaboration
+- Leads: Claire Rioualen, Maria Doyle
+- Current Members: Vince Carey, Hervé Menager, Lori Shepherd, Johannes Rainer, Kozo Nishida
+
+## TeSS
+
+- Description: This group focuses on enhancing the connectivity and integration between the [TeSS (Training eSupport System)](https://tess.elixir-europe.org) portal and the Bioconductor project. Our objectives include implementing Bioschemas for Bioconductor training material and events to improve their discoverability and accessibility via TeSS (https://tess.elixir-europe.org/content_providers/bioconductor). We aim to strengthen the bridge between these platforms, facilitating easier access to Bioconductor training resources.
+- Slack: #elixir. A TeSS-specific channel may be created based on interest and participation.
+- Leads: Maria Doyle
+- Current Members: Maria Doyle, Laurent Gatto (contact Maria on Slack if interested to join this initiative)
