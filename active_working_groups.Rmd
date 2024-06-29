@@ -168,3 +168,10 @@ expectations regarding personal data privacy.
 - Slack: #elixir. A TeSS-specific channel may be created based on interest and participation.
 - Leads: Maria Doyle
 - Current Members: Maria Doyle, Laurent Gatto (contact Maria on Slack if interested to join this initiative)
+
+## BiocAsia
+
+- Description: This group will primarily be involved with conference planning for the BiocAsia conference and seeks to formalise this as a Bioconductor Working Group
+- Slack: #biocasia
+- Leads: Stevie Pederson, Stefano Mangiola
+- Current Members: Stevie, Stefano, Ellis Patrick, Peter Hickey
