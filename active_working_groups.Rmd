@@ -174,4 +174,4 @@ expectations regarding personal data privacy.
 - Description: This group will primarily be involved with conference planning for the BiocAsia conference and seeks to formalise this as a Bioconductor Working Group
 - Slack: #biocasia
 - Leads: Stevie Pederson, Stefano Mangiola
-- Current Members: Stevie, Stefano, Ellis Patrick, Peter Hickey
+- Current Members: Stevie, Stefano, Ellis Patrick, Peter Hickey, Kozo Nishida, Jiya Chaudhary, Manoj Wagle, Lori Shepherd
