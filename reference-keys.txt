@@ -18,6 +18,7 @@ website
 social-media
 edam-collaboration
 tess
+biocasia
 needed-working-groups-committees
 package-build-report-triage
 inactive-working-groups
