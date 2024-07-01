@@ -4,12 +4,17 @@ These are legacy working groups that may have achieved their goals and now are
 currently inactive. If you think there is a need to re-establish one of the
 listed groups please contact the listed Lead and Lori.Shepherd@RoswellPark.org.
 
-## BiocAwards
+## Package Review
 
-- Description: In 2020, Bioconductor established annual Bioconductor awards to
-recognize outstanding contributions to the Bioconductor community. This
-committee meets annually starting roughly 4-6 months before the annual
-conference to conduct nominations and voting. 
-- Links: https://bioconductor.org/about/awards/
-- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> and Simone Bell
-- Current Members: Lori Shepherd and Simone Bell
+- Description: The package review working group was established to review and
+revise the current review process for Bioconductor. It also was tasked with
+updating Bioconductor package guidelines and package submission
+documentation. Its current focus is to update, clean up, and reorganize the
+material presented at http://contributions.bioconductor.org/. This is <b>not</b> the
+group to volunteer to become a Bioconductor package reviewer. This group is to
+refine the requirements for a Bioconductor package.
+- Links: https://github.com/Bioconductor/pkgrevdocs, https://contribution.bioconductor.org
+- Slack: #package-submission, #reviewers
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
+- Current Members: Lori Shepherd, Kayla Interdonato, Johannes Rainer, Yagoub
+Adam, Kevin Rue-Albrecht, Estefania Mancini, Mike Smith, Daniela Cassol

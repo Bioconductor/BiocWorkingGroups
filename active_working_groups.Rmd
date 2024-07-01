@@ -5,6 +5,23 @@ order. If you are interested in becoming involved with one of these groups
 please contact the group leader(s).
 
 
+## BiocAsia
+
+- Description: This group will primarily be involved with conference planning for the BiocAsia conference and seeks to formalise this as a Bioconductor Working Group
+- Slack: #biocasia-conference-organization, #biocasia
+- Leads: Stevie Pederson, Stefano Mangiola
+- Current Members: Stevie, Stefano, Ellis Patrick, Peter Hickey, Kozo Nishida, Jiya Chaudhary, Manoj Wagle, Lori Shepherd
+
+## BiocAwards
+
+- Description: In 2020, Bioconductor established annual Bioconductor awards to
+recognize outstanding contributions to the Bioconductor community. This
+committee meets annually starting roughly 4-6 months before the annual
+conference to conduct nominations and voting. 
+- Links: https://bioconductor.org/about/awards/
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> and Maria Doyle
+- Current Members: Stevie Pederson, Johannes Rainer
+
 ## Code of Conduct
 
 - Description: The Code of Conduct Committee reviews and revises the
@@ -12,13 +29,16 @@ please contact the group leader(s).
   translate the Code of Code to multiple languages.
 - Links: https://github.com/Bioconductor/bioc_coc_multilingual
 - Slack: private channel
-- Leads: Saskia Freytag
-- Current Members: Kevin Rue-Albrecht, Johannes Rainer
+- Leads: Anna Quaglieri, Gerry Tonkin-Hill
+- Current Members: Kevin Rue-Albrecht, Martin Davila-Cervantes, Federica
+  Gazzelloni, Michael Love, Federico Marini, Sowmya Parthiban, Shixiang Wang,
+  Lluis Revilla, Paulina Boadiwaa Mensah, Peace Sandy, Sinmisoluwa Adesanya,
+  Michella Savage
 
 ## Conference Planning
 
 - Description: Organizes and Plans the Annual Conference.
-- Slack: #bioc-conference-organization, #bioc-conference-web
+- Slack: #bioc-conference-organization, #bioc-conference-everyone
 - Leads: Levi Waldron, Erica Feick
 - Current Members: Charlotte Soneson, Jenny D, Jenny S, Lori, Marc, Andrew, Daniela, Matt, Mikhail, Samuel, Krithika, Sean, Wes
 
@@ -31,17 +51,12 @@ please contact the group leader(s).
 - Current Members: Levi Waldron, Marcel Ramos, Erdal Cosgun, Sridhar Srivatsan,
   Brian Schilder, Vince Carey
 
-## Developers Training
+## EDAM collaboration
 
-- Description: This group aims to help create and promote development
-  discussions and opportunities within the Bioconductor organization. This
-  includes organizing developer forum talks, collating material on the
-  Bioconductor YouTube channel, and monitoring the new developer mentorship
-  program.
-- Links: [New Developer Training Program](http://bioconductor.org/developers/new-developer-program/), [Playlist on Bioconductor YouTube](https://www.youtube.com/watch?v=CcJgcDy2qEI&list=PLdl4u5ZRDMQQLMupAtEzm2y4gUIUm_1n6)
-- Slack: #developers-mentorship, #developers-forum
-- Leads: Mike Smith, Kevin Rue-Albrecht
-- Current Members: Aedin Culhane, Lori Shepherd
+- Description: This group unites EDAM and Bioconductor community members to explore indexing the Bioconductor ecosystem using the [EDAM ontology](https://edamontology.org/). Our working group's objectives include increasing the visibility of Bioconductor packages to a broader audience, including those not primarily using R, and expanding EDAM as a standard for annotating computational biology resources. Through this collaboration, we aim to synergize two large, international communities focused on open science. Future plans may include exploring connections with bio.tools, Bioschemas, and TeSS. If you're interested in contributing or want to learn more, join us on Slack.
+- Slack: #edam-collaboration
+- Leads: Claire Rioualen, Maria Doyle, Hervé Pagès
+- Current Members: Vince Carey, Hervé Menager, Lori Shepherd, Johannes Rainer, Kozo Nishida, Matúš Kalaš
 
 ## Education
 
@@ -52,17 +67,6 @@ please contact the group leader(s).
 - Founding Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges, Susan Holmes
 - Current Members: Open to all. Join us! Details [here](https://www.bioconductor.org/help/education-training/).
 
-## Governance
-
-- Description: This group is re-evaluating with potential to restructure the
-  governance and organiztion of _Bioconductor_. This includes but not limited to
-  the current Scientific, Community, and Technical Boards as well as the
-  Bioconductor Foundation.
-- Links:
-- Slack: #biocoductor-governance
-- Leads: Charlotte Soneson, Vince Carey
-- Current Members: Levi Waldron, Aedin Culhane, Charlotte Soneson, Vince Carey, Lori Shepherd
-
 ## Mass Spectrometry for Proteomics and Metabolomics
 
 - Description: The goal of this working group is to identify members of the
@@ -72,8 +76,7 @@ please contact the group leader(s).
 - Links: https://github.com/lgatto/BiocMassSpecWorkingGroup
 - Slack: #mass-spectrometry, #metabolomics, #proteomics
 - Leads: Laurent Gatto (TAB) and Johannes Rainer (CAB) 
-- Current Members: Lauent, Johannes. A call for people interested to join will
-  be opened soon.
+- Current Members: Lauent, Johannes. 
 
 ## Multilingual
 
@@ -83,69 +86,18 @@ please contact the group leader(s).
 - Leads: Leonardo Collado-Torres, Kozo Nishida, Daniela Cassol, Kevin Rue-Albrecht
 - Current Members:
 
-## Package Review
+## Package Build Report Triage
 
-- Description: The package review working group was established to review and
-revise the current review process for Bioconductor. It also was tasked with
-updating Bioconductor package guidelines and package submission
-documentation. Its current focus is to update, clean up, and reorganize the
-material presented at http://contributions.bioconductor.org/. This is <b>not</b> the
-group to volunteer to become a Bioconductor package reviewer. This group is to
-refine the requirements for a Bioconductor package.
-- Links: https://github.com/Bioconductor/pkgrevdocs, https://contribution.bioconductor.org
-- Slack: #package-submission, #reviewers
-- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
-- Current Members: Lori Shepherd, Kayla Interdonato, Johannes Rainer, Yagoub
-Adam, Kevin Rue-Albrecht, Estefania Mancini, Mike Smith, Daniela Cassol
-
-## Privacy
-
-- Description: Data privacy is an important topic to the Bioconductor project, 
-with its large community and many websites and services hosted by a variety of
-organisations around the globe.  This working group is engaged in making sure 
-that Bioconductor services meet both legal requirements and community 
-expectations regarding personal data privacy.
-- Links:
-- Leads:
-- Current Members: Vince Carey, Mike Smith
-- Past Members: Katermina Kechris
-
-## Publication
-
-- Description: Publication discussion with F1000R and other venues that enable publication of workflows, BioC material from workshops or package presentations. This working group is trying to make it easier and less expensive to publish papers on BioC advances that can be kept up to date while still providing DOI and valid publication metadata so that there is a citation and recognition mechanism. Highly interested in new Overlay publishing and using quarto for new publication models.
-- Links:
-- Leads: Susan Holmes
-- Current Members: Susan, Sean Davis,
-
-## Recommended classes and methods
-
-- Description: Discussions arounnd Bioconductor 'official' classes and methods and how to articulate their benefits to increase their usage across the ecosystem, in particular in new contributions.
-- Links: https://github.com/Bioconductor/BiocClassesWorkingGroup
-- Leads: Laurent Gatto 
-- Current Members: Vince Carey, Laurent Gatto, Johannes Rainer, Lori Shepherd
-
-## Spatial and Multi-omics
-
-- Description:
-- Links:
-- Leads: Stephanie Hicks
-- Current Members: 
-
-## Industry
-
-- Description: Many Bioconductor users are from industry. Yet industry users aren't a large voice in the Bioconductor community. This working group is centered around collaborating and engaging with industry users. Topics of interest include: how to get more industry users participating with the community, what guidelines can be established to bolster the community relationship with industry, and much more.
-- Links:
-- Slack: #industry
-- Leads: Nicole Ortogero, David Henderson
-- Current Members: Michael Lawrence, Xiuwen Zheng, Wade Davis, Snehal Wani, Scott Chasalow
-
-## Website
-
-- Description: The Website working group will create the list of requirements for the Bioconductor website redesign.
-- Links: 
-- Slack: #biocwebsite
-- Leads: Maria Doyle, Lori Shepherd, Aedin Culhane 
-- Current Members: Kevin Rue-Albrecht, Sean Davis, Susan Holmes, Vince Carey, Alex Mahmoud, Marcel Ramos, Hédia Thani, Shila Ghazanfar, Laurent Gatto, Jen Wokaty, Samuel Gamboa, Bob Shear, Matt Ritchie
+- Description: This committee would be responsible for reaching out to ERRORing
+  package maintainers to fix their package and identify inactive packages for
+  deprecation. While we have autonotificaiton of failure, many (most)
+  maintainers ignore and are not good about checking the provided build
+  reports. The core team has found that sending personalized emails greatly
+  increases the likelihood of a maintainer to fix the package.
+- Links: https://bioconductor.org/checkResults/
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> 
+- Current Members: Johannes Rainer, Kayla Interdonato. I need more members! Please if interested
+  please email or slack
 
 ## Social Media
 
@@ -155,13 +107,6 @@ expectations regarding personal data privacy.
 - Leads: Maria Doyle
 - Current Members: Laurent Gatto, Susan Holmes, Federica Gazzelloni, İrem Kahveci, Hamdi Furkan Kepenek, Xueyi Dong, Shixiang Wang, Kozo Nishida
 
-## EDAM collaboration
-
-- Description: This group unites EDAM and Bioconductor community members to explore indexing the Bioconductor ecosystem using the [EDAM ontology](https://edamontology.org/). Our working group's objectives include increasing the visibility of Bioconductor packages to a broader audience, including those not primarily using R, and expanding EDAM as a standard for annotating computational biology resources. Through this collaboration, we aim to synergize two large, international communities focused on open science. Future plans may include exploring connections with bio.tools, Bioschemas, and TeSS. If you're interested in contributing or want to learn more, join us on Slack.
-- Slack: #edam-collaboration
-- Leads: Claire Rioualen, Maria Doyle, Hervé Pagès
-- Current Members: Vince Carey, Hervé Menager, Lori Shepherd, Johannes Rainer, Kozo Nishida, Matúš Kalaš
-
 ## TeSS
 
 - Description: This group focuses on enhancing the connectivity and integration between the [TeSS (Training eSupport System)](https://tess.elixir-europe.org) portal and the Bioconductor project. Our objectives include implementing Bioschemas for Bioconductor training material and events to improve their discoverability and accessibility via TeSS (https://tess.elixir-europe.org/content_providers/bioconductor). We aim to strengthen the bridge between these platforms, facilitating easier access to Bioconductor training resources.
@@ -169,9 +114,10 @@ expectations regarding personal data privacy.
 - Leads: Maria Doyle
 - Current Members: Maria Doyle, Laurent Gatto (contact Maria on Slack if interested to join this initiative)
 
-## BiocAsia
+## Website
 
-- Description: This group will primarily be involved with conference planning for the BiocAsia conference and seeks to formalise this as a Bioconductor Working Group
-- Slack: #biocasia
-- Leads: Stevie Pederson, Stefano Mangiola
-- Current Members: Stevie, Stefano, Ellis Patrick, Peter Hickey, Kozo Nishida, Jiya Chaudhary, Manoj Wagle, Lori Shepherd
+- Description: The Website working group will create the list of requirements for the Bioconductor website redesign.
+- Links: 
+- Slack: #biocwebsite
+- Leads: Maria Doyle, Lori Shepherd, Aedin Culhane 
+- Current Members: Kevin Rue-Albrecht, Sean Davis, Susan Holmes, Vince Carey, Alex Mahmoud, Marcel Ramos, Hédia Thani, Shila Ghazanfar, Laurent Gatto, Jen Wokaty, Samuel Gamboa, Bob Shear, Matt Ritchie
