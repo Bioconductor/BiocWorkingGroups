@@ -99,6 +99,18 @@ conference to conduct nominations and voting.
 - Current Members: Johannes Rainer, Kayla Interdonato. I need more members! Please if interested
   please email or slack
 
+## R-Ladies and Bioc
+
+- Description: The R-Ladies working group will foster a partnership between BioC
+  and R-Ladies to encourage, support, and promote gender minorities at the
+  intersection of computational biology/bioinformatics and data science. We will
+  do this through co-hosted events, blog posts, and such.
+- Links:
+- Slack: #r-ladies
+- Leads: Janani Ravi
+- Current Members: Janani Ravi, Daniela Cassol, Aedin Culhane, Lori Shepherd,
+  Stephanie Hicks, Heather Turner
+
 ## Social Media
 
 - Description: Group for creating Bioconductor strategy, guidelines etc for social media (Blog, Twitter, Mastodon, YouTube, LinkedIn, Instagram, TikTok, Bilibili, WeChat, Weibo...).
