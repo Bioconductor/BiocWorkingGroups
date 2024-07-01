@@ -10,6 +10,7 @@ education
 mass-spectrometry-for-proteomics-and-metabolomics
 multilingual
 package-build-report-triage
+r-ladies-and-bioc
 social-media
 tess
 website
