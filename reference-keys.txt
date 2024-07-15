@@ -9,6 +9,9 @@ edam-collaboration
 education
 mass-spectrometry-for-proteomics-and-metabolomics
 multilingual
+code-of-conduct-translation
+french-translation-subgroup
+spanish-translation-subgroup
 package-build-report-triage
 r-ladies-and-bioc
 social-media
