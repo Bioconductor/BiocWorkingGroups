@@ -114,10 +114,10 @@ conference to conduct nominations and voting.
 
 ## R-Ladies and Bioc
 
-- Description: The R-Ladies working group will foster a partnership between BioC
+- Description: The R-Ladies working group aims to foster collaboration between Bioconductor
   and R-Ladies to encourage, support, and promote gender minorities at the
   intersection of computational biology/bioinformatics and data science. We will
-  do this through co-hosted events, blog posts, and such.
+  achieve this through co-hosted events, blog posts, and other collaborative initiatives.
 - Links:
 - Slack: #r-ladies
 - Leads: Janani Ravi
