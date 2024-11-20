@@ -49,13 +49,6 @@ expectations regarding personal data privacy.
 - Leads: Susan Holmes
 - Current Members: Susan, Sean Davis,
 
-## Recommended classes and methods
-
-- Description: Discussions arounnd Bioconductor 'official' classes and methods and how to articulate their benefits to increase their usage across the ecosystem, in particular in new contributions.
-- Links: https://github.com/Bioconductor/BiocClassesWorkingGroup
-- Leads: Laurent Gatto 
-- Current Members: Vince Carey, Laurent Gatto, Johannes Rainer, Lori Shepherd
-
 ## Spatial and Multi-omics
 
 - Description:

@@ -22,6 +22,27 @@ conference to conduct nominations and voting.
 - Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> and Maria Doyle
 - Current Members: Stevie Pederson, Johannes Rainer
 
+## Classes and Methods Recommendations
+
+- Description: Discussions arounnd Bioconductor 'official' classes and methods
+  and how to articulate their benefits to increase their usage across the
+  ecosystem, in particular in new contributions. Contemplation of how to
+  integrate S7 framework.
+- Slack: #biocclasses
+- Links: https://github.com/Bioconductor/BiocClassesWorkingGroup
+- Leads: Laurent Gatto, Michael Lawrence, Lori Shepherd
+- Current Members: Vince Carey, Laurent Gatto, Michael Lawrence, Marcel Ramos,
+  Lluis Revilla, Dario Righelli, Lori Shepherd, Malte Thodberg, Tim Triche  
+
+## Cloud Methods
+
+- Description: The goal of this group is to develop standards and tools for the
+  Bioconductor community that are related to the cloud.
+- Slack: #cloud-working-group
+- Leads: Erdal Cosgun
+- Current Members: Mike Smith, Levi Waldron, Tyrone Lee, Marcel Ramos, Brian Schilder, 
+  Alex Mahmoud, Jen Wokaty, Ludwig Geistlinger, Sean Davis, Vince Carey
+
 ## Code of Conduct
 
 - Description: The Code of Conduct Committee reviews and revises the
@@ -41,15 +62,6 @@ conference to conduct nominations and voting.
 - Slack: #bioc-conference-organization, #bioc-conference-everyone
 - Leads: Levi Waldron, Erica Feick
 - Current Members: Charlotte Soneson, Jenny D, Jenny S, Lori, Marc, Andrew, Daniela, Matt, Mikhail, Samuel, Krithika, Sean, Wes
-
-## Cloud Methods
-
-- Description: The goal of this group is to develop standards and tools for the
-  Bioconductor community that are related to the cloud.
-- Slack: #cloud-working-group
-- Leads: Erdal Cosgun
-- Current Members: Mike Smith, Levi Waldron, Tyrone Lee, Marcel Ramos, Brian Schilder, 
-  Alex Mahmoud, Jen Wokaty, Ludwig Geistlinger, Sean Davis, Vince Carey
 
 ## EDAM collaboration
 
