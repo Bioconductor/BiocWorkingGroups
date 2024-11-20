@@ -2,9 +2,10 @@ working-group-and-committee-guidelines
 currently-active-working-groups-committees
 biocasia
 biocawards
+classes-and-methods-recommendations
+cloud-methods
 code-of-conduct-1
 conference-planning
-cloud-methods
 edam-collaboration
 education
 mass-spectrometry-for-proteomics-and-metabolomics
@@ -22,7 +23,6 @@ developers-training
 industry
 privacy
 publication
-recommended-classes-and-methods
 spatial-and-multi-omics
 inactive-working-groups
 package-review
