@@ -82,9 +82,22 @@ conference to conduct nominations and voting.
 
 - Description: The multiligual group is focused on translating and hosting
   Bioconductor material in multiple languages. Help is always appreciated!
+- Slack: #documentation-translation
+
+### Code of Conduct Translation  
 - Links: [CoC](https://github.com/Bioconductor/bioc_coc_multilingual), [talks_and_transcripts](https://github.com/BioconductorBoards/CABWorkingGroups/tree/main/talks_and_transcripts)
-- Leads: Leonardo Collado-Torres, Kozo Nishida, Daniela Cassol, Kevin Rue-Albrecht
+- Leads: Leonardo Collado-Torres, Kozo Nishida, Daniela Cassol, Kevin Rue-Albrecht, Dario Righelli.
+
+### French Translation Subgroup
+- Description: Focused on translating Bioconductor Carpentries lessons into French.
+- Current Members: Marie Hidjo (co-lead), Laurent Gatto (co-lead), Susan Holmes, Laura Symul.
+- Slack:  #translation-fr
+
+### Spanish Translation Subgroup
+- Description: Focused on translating Bioconductor Carpentries lessons into Spanish.
+- Leads: Robert Castelo (lead), Javier Carpinteyro Ponce
 - Current Members:
+- Slack:  #translation-es
 
 ## Package Build Report Triage
 
@@ -101,10 +114,10 @@ conference to conduct nominations and voting.
 
 ## R-Ladies and Bioc
 
-- Description: The R-Ladies working group will foster a partnership between BioC
+- Description: The R-Ladies working group aims to foster collaboration between Bioconductor
   and R-Ladies to encourage, support, and promote gender minorities at the
   intersection of computational biology/bioinformatics and data science. We will
-  do this through co-hosted events, blog posts, and such.
+  achieve this through co-hosted events, blog posts, and other collaborative initiatives.
 - Links:
 - Slack: #r-ladies
 - Leads: Janani Ravi
