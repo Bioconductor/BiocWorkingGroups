@@ -18,6 +18,7 @@ r-ladies-and-bioc
 social-media
 tess
 website
+workflows
 needed-working-groups-committees
 developers-training
 industry
