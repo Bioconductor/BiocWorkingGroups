@@ -13,6 +13,7 @@ multilingual
 code-of-conduct-translation
 french-translation-subgroup
 spanish-translation-subgroup
+multi-omic-integration-of-histopathology-image-analysis
 package-build-report-triage
 r-ladies-and-bioc
 social-media
