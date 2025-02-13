@@ -158,3 +158,11 @@ conference to conduct nominations and voting.
 - Slack: #biocwebsite
 - Leads: Maria Doyle, Lori Shepherd, Aedin Culhane 
 - Current Members: Kevin Rue-Albrecht, Sean Davis, Susan Holmes, Vince Carey, Alex Mahmoud, Marcel Ramos, Hédia Thani, Shila Ghazanfar, Laurent Gatto, Jen Wokaty, Samuel Gamboa, Bob Shear, Matt Ritchie
+
+## Workflows
+
+- Description: This group is focussed on updating and rebranding Bioconductor Workflows as well as streamlining arrangements with an external publisher, specifically for workflows. 
+- Links:
+- Slack: #workflows
+- Leads: Michael Love
+- Current Members: Charlotte Soneson, Davide Risso, Lori Shepherd, Stevie Pederson, Susan Holmes, Ellis Patrick, Sean Davis, Aedin Culhane, Vince Carey, Janani Ravi, Woflgang Huber
