@@ -111,6 +111,26 @@ conference to conduct nominations and voting.
 - Current Members:
 - Slack:  #translation-es
 
+## Multi-omic Integration of Histopathology Image Analysis
+
+- Description: This working group addresses the need for standardized workflows
+  to integrate histopathology image-derived features with genomic and
+  transcriptomic analyses in R/Bioconductor. We will develop data structures and
+  workflows for processing image analysis outputs, create a curated repository
+  of TCGA image features, and provide comprehensive training resources. Initial
+  goals: For the next two years, we plan to establish standardized workflows for
+  importing image features from Python-based tools into R/Bioconductor data
+  structures, process TCGA histopathology images and create a curated repository
+  of extracted features, and develop educational materials and documentation for
+  integrated image-omic analysis.
+- Links: [Meeting
+  Notes](https://docs.google.com/document/d/1AQzizrfpLc3D-S4LacMucMvZeRFBzf65fZ4k1bfizi4/edit?usp=sharing)
+- Leads: Sehyun Oh
+- Current Members: Mohamed Omar, Ilaria Billato, Hervé Pagès, Levi Waldron,
+  Davide Risso, Chiara Romualdi, Luigi Marchionni, Marcel Ramos, Sean Davis,
+  Lucio Queiroz
+- Slack: #histopathology-image-anlyasis
+
 ## Package Build Report Triage
 
 - Description: This committee would be responsible for reaching out to ERRORing
