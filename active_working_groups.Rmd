@@ -12,16 +12,6 @@ please contact the group leader(s).
 - Leads: Stevie Pederson, Stefano Mangiola
 - Current Members: Stevie, Stefano, Ellis Patrick, Peter Hickey, Kozo Nishida, Jiya Chaudhary, Manoj Wagle, Lori Shepherd
 
-## BiocAwards
-
-- Description: In 2020, Bioconductor established annual Bioconductor awards to
-recognize outstanding contributions to the Bioconductor community. This
-committee meets annually starting roughly 4-6 months before the annual
-conference to conduct nominations and voting. 
-- Links: https://bioconductor.org/about/awards/
-- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> and Maria Doyle
-- Current Members: Stevie Pederson, Johannes Rainer
-
 ## Classes and Methods Recommendations
 
 - Description: Discussions arounnd Bioconductor 'official' classes and methods
@@ -60,7 +50,7 @@ conference to conduct nominations and voting.
 
 - Description: Organizes and Plans the Annual Conference.
 - Slack: #bioc-conference-organization, #bioc-conference-everyone
-- Leads: Levi Waldron, Erica Feick
+- Leads: Erica Feick
 - Current Members: Charlotte Soneson, Jenny D, Jenny S, Lori, Marc, Andrew, Daniela, Matt, Mikhail, Samuel, Krithika, Sean, Wes
 
 ## EDAM collaboration
@@ -141,8 +131,22 @@ conference to conduct nominations and voting.
   increases the likelihood of a maintainer to fix the package.
 - Links: https://bioconductor.org/checkResults/
 - Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> 
-- Current Members: Johannes Rainer, Kayla Interdonato. I need more members! Please if interested
-  please email or slack
+- Current Members: I need more members! Please email or slack if interested
+
+## Package Reviews
+
+- Description: Bioconductor review process of incoming packages is an open
+  review process. Bioconductor relies on trained volunteers to review in coming
+  packages to ensure adherence to Bioconductor package guidelines. We are always
+  in need of more package reviewers.
+- Links: [Package Reviewers](https://bioconductor.org/about/package-reviewers/),
+  [Contribution Guidelines](https://contributions.bioconductor.org/),
+  [Submission Queue](https://github.com/Bioconductor/Contributions/issues)
+- Slack: #package-submission, #reviewers
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> 
+- Current Members: Helena Crowell, Peter Hickey, Kayla Interdonato, Jianhong Oh,
+  Herve Pages, Marcel Ramos, Mireia Ramos-Rodriguez, Jacques Serizay, Dario
+  Strbenac
 
 ## R-Ladies and Bioc
 
@@ -164,20 +168,24 @@ conference to conduct nominations and voting.
 - Leads: Maria Doyle
 - Current Members: Laurent Gatto, Susan Holmes, Federica Gazzelloni, İrem Kahveci, Hamdi Furkan Kepenek, Xueyi Dong, Shixiang Wang, Kozo Nishida
 
+## Spatial (Transcript)omics
+
+- Description: We hope to discuss, identify, and coordinate efforts to address
+  current and prospective technical needs around spatial omics; e.g.,
+  standardized and language-agnostic file formats, cross-framework and -language
+  interoperability, handling data across modalities and coordinate systems,
+  visualization etc.
+- Links: 
+- Slack: #spatial #spatial-interoperability #spatialdata-devel #image-analysis
+- Lead: Helena Crowell
+- Members: Artür Manukyan, Ellis Patrick, Dario Righelli, Davide Risso, Gabriel Grajeda, Ludwig Geistlinger, Ludwig Geistlinger, Lukas Weber, Mark Robinson, Martin Emons, Phillip Nicol, Samuel Gunz, Shila Ghazanfar, Stephanie Hicks, Yixing Estella Dong
+
 ## TeSS
 
 - Description: This group focuses on enhancing the connectivity and integration between the [TeSS (Training eSupport System)](https://tess.elixir-europe.org) portal and the Bioconductor project. Our objectives include implementing Bioschemas for Bioconductor training material and events to improve their discoverability and accessibility via TeSS (https://tess.elixir-europe.org/content_providers/bioconductor). We aim to strengthen the bridge between these platforms, facilitating easier access to Bioconductor training resources.
 - Slack: #elixir. A TeSS-specific channel may be created based on interest and participation.
 - Leads: Maria Doyle
 - Current Members: Maria Doyle, Laurent Gatto (contact Maria on Slack if interested to join this initiative)
-
-## Website
-
-- Description: The Website working group will create the list of requirements for the Bioconductor website redesign.
-- Links: 
-- Slack: #biocwebsite
-- Leads: Maria Doyle, Lori Shepherd, Aedin Culhane 
-- Current Members: Kevin Rue-Albrecht, Sean Davis, Susan Holmes, Vince Carey, Alex Mahmoud, Marcel Ramos, Hédia Thani, Shila Ghazanfar, Laurent Gatto, Jen Wokaty, Samuel Gamboa, Bob Shear, Matt Ritchie
 
 ## Workflows
 

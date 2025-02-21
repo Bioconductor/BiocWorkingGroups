@@ -18,3 +18,21 @@ refine the requirements for a Bioconductor package.
 - Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
 - Current Members: Lori Shepherd, Kayla Interdonato, Johannes Rainer, Yagoub
 Adam, Kevin Rue-Albrecht, Estefania Mancini, Mike Smith, Daniela Cassol
+
+## BiocAwards
+
+- Description: In 2020, Bioconductor established annual Bioconductor awards to
+recognize outstanding contributions to the Bioconductor community. This
+committee meets annually starting roughly 4-6 months before the annual
+conference to conduct nominations and voting. 
+- Links: https://bioconductor.org/about/awards/
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> and Maria Doyle
+- Current Members: Stevie Pederson, Johannes Rainer
+
+## Website
+
+- Description: The Website working group will create the list of requirements for the Bioconductor website redesign.
+- Links: 
+- Slack: #biocwebsite
+- Leads: Maria Doyle, Lori Shepherd, Aedin Culhane 
+- Current Members: Kevin Rue-Albrecht, Sean Davis, Susan Holmes, Vince Carey, Alex Mahmoud, Marcel Ramos, Hédia Thani, Shila Ghazanfar, Laurent Gatto, Jen Wokaty, Samuel Gamboa, Bob Shear, Matt Ritchie

@@ -30,30 +30,13 @@ other relevent links.</p>
 - Leads: Nicole Ortogero, David Henderson
 - Current Members: Michael Lawrence, Xiuwen Zheng, Wade Davis, Snehal Wani, Scott Chasalow
 
-## Privacy
-
-- Description: Data privacy is an important topic to the Bioconductor project, 
-with its large community and many websites and services hosted by a variety of
-organisations around the globe.  This working group is engaged in making sure 
-that Bioconductor services meet both legal requirements and community 
-expectations regarding personal data privacy.
-- Links:
-- Leads:
-- Current Members: Vince Carey, Mike Smith
-- Past Members: Katermina Kechris
-
 ## Publication
+
+**Note:** Some of this is being discussed in relation to Workflows redesign
 
 - Description: Publication discussion with F1000R and other venues that enable publication of workflows, BioC material from workshops or package presentations. This working group is trying to make it easier and less expensive to publish papers on BioC advances that can be kept up to date while still providing DOI and valid publication metadata so that there is a citation and recognition mechanism. Highly interested in new Overlay publishing and using quarto for new publication models.
 - Links:
 - Leads: Susan Holmes
 - Current Members: Susan, Sean Davis,
-
-## Spatial and Multi-omics
-
-- Description:
-- Links:
-- Leads: 
-- Current Members: 
 
 
