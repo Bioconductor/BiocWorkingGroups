@@ -2,13 +2,13 @@
 
 The following describe currently active working groups listed in alphabetical
 order. If you are interested in becoming involved with one of these groups
-please contact the group leader(s).
+please contact the group leader(s) on [Bioconductor Zulip](https://chat.bioconductor.org) .
 
 
 ## BiocAsia
 
 - Description: This group will primarily be involved with conference planning for the BiocAsia conference and seeks to formalise this as a Bioconductor Working Group
-- Slack: #biocasia-conference-organization, #biocasia
+- Zulip: #biocasia-conference-organization, #biocasia
 - Leads: Stevie Pederson, Stefano Mangiola
 - Current Members: Stevie, Stefano, Ellis Patrick, Peter Hickey, Kozo Nishida, Jiya Chaudhary, Manoj Wagle, Lori Shepherd
 
@@ -18,7 +18,7 @@ please contact the group leader(s).
   and how to articulate their benefits to increase their usage across the
   ecosystem, in particular in new contributions. Contemplation of how to
   integrate S7 framework.
-- Slack: #biocclasses
+- Zulip: #biocclasses
 - Links: https://github.com/Bioconductor/BiocClassesWorkingGroup
 - Leads: Laurent Gatto, Michael Lawrence, Lori Shepherd
 - Current Members: Vince Carey, Laurent Gatto, Michael Lawrence, Marcel Ramos,
@@ -28,7 +28,7 @@ please contact the group leader(s).
 
 - Description: The goal of this group is to develop standards and tools for the
   Bioconductor community that are related to the cloud.
-- Slack: #cloud-working-group
+- Zulip: #cloud-working-group
 - Leads: Erdal Cosgun
 - Current Members: Mike Smith, Levi Waldron, Tyrone Lee, Marcel Ramos, Brian Schilder, 
   Alex Mahmoud, Jen Wokaty, Ludwig Geistlinger, Sean Davis, Vince Carey
@@ -39,7 +39,7 @@ please contact the group leader(s).
   Bioconductor Code of Conduct as needed. There is also a large effort to
   translate the Code of Code to multiple languages.
 - Links: https://github.com/Bioconductor/bioc_coc_multilingual
-- Slack: private channel
+- Zulip: private channel
 - Leads: Anna Quaglieri, Gerry Tonkin-Hill
 - Current Members: Kevin Rue-Albrecht, Martin Davila-Cervantes, Federica
   Gazzelloni, Michael Love, Federico Marini, Sowmya Parthiban, Shixiang Wang,
@@ -49,22 +49,22 @@ please contact the group leader(s).
 ## Conference Planning
 
 - Description: Organizes and Plans the Annual Conference.
-- Slack: #bioc-conference-organization, #bioc-conference-everyone
+- Zulip: #bioc-conference-organization, #bioc-conference-everyone
 - Leads: Erica Feick
 - Current Members: Charlotte Soneson, Jenny D, Jenny S, Lori, Marc, Andrew, Daniela, Matt, Mikhail, Samuel, Krithika, Sean, Wes
 
 ## EDAM collaboration
 
-- Description: This group unites EDAM and Bioconductor community members to explore indexing the Bioconductor ecosystem using the [EDAM ontology](https://edamontology.org/). Our working group's objectives include increasing the visibility of Bioconductor packages to a broader audience, including those not primarily using R, and expanding EDAM as a standard for annotating computational biology resources. Through this collaboration, we aim to synergize two large, international communities focused on open science. Future plans may include exploring connections with bio.tools, Bioschemas, and TeSS. If you're interested in contributing or want to learn more, join us on Slack.
-- Slack: #edam-collaboration
+- Description: This group unites EDAM and Bioconductor community members to explore indexing the Bioconductor ecosystem using the [EDAM ontology](https://edamontology.org/). Our working group's objectives include increasing the visibility of Bioconductor packages to a broader audience, including those not primarily using R, and expanding EDAM as a standard for annotating computational biology resources. Through this collaboration, we aim to synergize two large, international communities focused on open science. Future plans may include exploring connections with bio.tools, Bioschemas, and TeSS. If you're interested in contributing or want to learn more, join us on [Bioconductor Zulip](https://chat.bioconductor.org).
+- Zulip: #edam-collaboration
 - Leads: Claire Rioualen, Maria Doyle, Hervé Pagès
 - Current Members: Vince Carey, Hervé Menager, Lori Shepherd, Johannes Rainer, Kozo Nishida, Matúš Kalaš
 
 ## Education
 
 - Description: The Bioconductor teaching and education committee is a collaborative effort to consolidate Bioconductor-focused training material and establish a community of Bioconductor trainers. We define a curriculum and implement online lessons for beginner and more advanced R users who want to learn to analyse their data with Bioconductor packages.
-- Links: https://github.com/bioconductor/bioconductor-teaching
-- Slack: #education-and-training
+- Links: https://training.bioconductor.org
+- Zulip: #education-and-training
 - Leads: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht
 - Founding Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges, Susan Holmes
 - Current Members: Open to all. Join us! Details [here](https://www.bioconductor.org/help/education-training/).
@@ -76,7 +76,7 @@ please contact the group leader(s).
   spectrometry, proteomics and/or metabolomics and define technical needs or
   community expectations to prioritise future developments.
 - Links: https://github.com/lgatto/BiocMassSpecWorkingGroup
-- Slack: #mass-spectrometry, #metabolomics, #proteomics
+- Zulip: #mass-spectrometry, #metabolomics, #proteomics
 - Leads: Laurent Gatto (TAB) and Johannes Rainer (CAB) 
 - Current Members: Lauent, Johannes. 
 
@@ -84,7 +84,7 @@ please contact the group leader(s).
 
 - Description: The multiligual group is focused on translating and hosting
   Bioconductor material in multiple languages. Help is always appreciated!
-- Slack: #documentation-translation
+- Zulip: #documentation-translation
 
 ### Code of Conduct Translation  
 - Links: [CoC](https://github.com/Bioconductor/bioc_coc_multilingual), [talks_and_transcripts](https://github.com/BioconductorBoards/CABWorkingGroups/tree/main/talks_and_transcripts)
@@ -93,13 +93,13 @@ please contact the group leader(s).
 ### French Translation Subgroup
 - Description: Focused on translating Bioconductor Carpentries lessons into French.
 - Current Members: Marie Hidjo (co-lead), Laurent Gatto (co-lead), Susan Holmes, Laura Symul.
-- Slack:  #translation-fr
+- Zulip:  #translation-fr
 
 ### Spanish Translation Subgroup
 - Description: Focused on translating Bioconductor Carpentries lessons into Spanish.
 - Leads: Robert Castelo (lead), Javier Carpinteyro Ponce
 - Current Members:
-- Slack:  #translation-es
+- Zulip:  #translation-es
 
 ## Multi-omic Integration of Histopathology Image Analysis
 
@@ -119,7 +119,7 @@ please contact the group leader(s).
 - Current Members: Mohamed Omar, Ilaria Billato, Hervé Pagès, Levi Waldron,
   Davide Risso, Chiara Romualdi, Luigi Marchionni, Marcel Ramos, Sean Davis,
   Lucio Queiroz
-- Slack: #histopathology-image-anlyasis
+- Zulip: #histopathology-image-anlyasis
 
 ## Package Build Report Triage
 
@@ -131,7 +131,7 @@ please contact the group leader(s).
   increases the likelihood of a maintainer to fix the package.
 - Links: https://bioconductor.org/checkResults/
 - Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> 
-- Current Members: I need more members! Please email or slack if interested
+- Current Members: I need more members! Please email or contact on Zulip if interested
 
 ## Package Reviews
 
@@ -142,7 +142,7 @@ please contact the group leader(s).
 - Links: [Package Reviewers](https://bioconductor.org/about/package-reviewers/),
   [Contribution Guidelines](https://contributions.bioconductor.org/),
   [Submission Queue](https://github.com/Bioconductor/Contributions/issues)
-- Slack: #package-submission, #reviewers
+- Zulip: #package-submission, #reviewers
 - Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> 
 - Current Members: Helena Crowell, Peter Hickey, Kayla Interdonato, Jianhong Oh,
   Herve Pages, Marcel Ramos, Mireia Ramos-Rodriguez, Jacques Serizay, Dario
@@ -155,7 +155,7 @@ please contact the group leader(s).
   intersection of computational biology/bioinformatics and data science. We will
   achieve this through co-hosted events, blog posts, and other collaborative initiatives.
 - Links:
-- Slack: #r-ladies
+- Zulip: #r-ladies
 - Leads: Janani Ravi
 - Current Members: Janani Ravi, Daniela Cassol, Aedin Culhane, Lori Shepherd,
   Stephanie Hicks, Heather Turner
@@ -164,7 +164,7 @@ please contact the group leader(s).
 
 - Description: Group for creating Bioconductor strategy, guidelines etc for social media (Blog, Twitter, Mastodon, YouTube, LinkedIn, Instagram, TikTok, Bilibili, WeChat, Weibo...).
 - Links: 
-- Slack: #social-media
+- Zulip: #social-media
 - Leads: Maria Doyle
 - Current Members: Laurent Gatto, Susan Holmes, Federica Gazzelloni, İrem Kahveci, Hamdi Furkan Kepenek, Xueyi Dong, Shixiang Wang, Kozo Nishida
 
@@ -176,21 +176,21 @@ please contact the group leader(s).
   interoperability, handling data across modalities and coordinate systems,
   visualization etc.
 - Links: 
-- Slack: #spatial #spatial-interoperability #spatialdata-devel #image-analysis
+- Zulip: #spatial #spatial-interoperability #spatialdata-devel #image-analysis
 - Lead: Helena Crowell
 - Members: Artür Manukyan, Ellis Patrick, Dario Righelli, Davide Risso, Gabriel Grajeda, Ludwig Geistlinger, Ludwig Geistlinger, Lukas Weber, Mark Robinson, Martin Emons, Phillip Nicol, Samuel Gunz, Shila Ghazanfar, Stephanie Hicks, Yixing Estella Dong
 
 ## TeSS
 
 - Description: This group focuses on enhancing the connectivity and integration between the [TeSS (Training eSupport System)](https://tess.elixir-europe.org) portal and the Bioconductor project. Our objectives include implementing Bioschemas for Bioconductor training material and events to improve their discoverability and accessibility via TeSS (https://tess.elixir-europe.org/content_providers/bioconductor). We aim to strengthen the bridge between these platforms, facilitating easier access to Bioconductor training resources.
-- Slack: #elixir. A TeSS-specific channel may be created based on interest and participation.
+- Zulip: #tess-integration
 - Leads: Maria Doyle
-- Current Members: Maria Doyle, Laurent Gatto (contact Maria on Slack if interested to join this initiative)
+- Current Members: Maria Doyle, Laurent Gatto (contact Maria on Zulip if interested to join this initiative)
 
 ## Workflows
 
 - Description: This group is focussed on updating and rebranding Bioconductor Workflows as well as streamlining arrangements with an external publisher, specifically for workflows. 
 - Links:
-- Slack: #workflows
+- Zulip: #workflows
 - Leads: Michael Love
 - Current Members: Charlotte Soneson, Davide Risso, Lori Shepherd, Stevie Pederson, Susan Holmes, Ellis Patrick, Sean Davis, Aedin Culhane, Vince Carey, Janani Ravi, Woflgang Huber

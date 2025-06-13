@@ -18,7 +18,7 @@ other relevent links.</p>
   Bioconductor YouTube channel, and monitoring the new developer mentorship
   program.
 - Links: [New Developer Training Program](http://bioconductor.org/developers/new-developer-program/), [Playlist on Bioconductor YouTube](https://www.youtube.com/watch?v=CcJgcDy2qEI&list=PLdl4u5ZRDMQQLMupAtEzm2y4gUIUm_1n6)
-- Slack: #developers-mentorship, #developers-forum
+- Zulip: #developers-mentorship, #developers-forum
 - Leads: Mike Smith, Kevin Rue-Albrecht
 - Current Members: Aedin Culhane, Lori Shepherd
 
@@ -26,7 +26,7 @@ other relevent links.</p>
 
 - Description: Many Bioconductor users are from industry. Yet industry users aren't a large voice in the Bioconductor community. This working group is centered around collaborating and engaging with industry users. Topics of interest include: how to get more industry users participating with the community, what guidelines can be established to bolster the community relationship with industry, and much more.
 - Links:
-- Slack: #industry
+- Zulip: #industry
 - Leads: Nicole Ortogero, David Henderson
 - Current Members: Michael Lawrence, Xiuwen Zheng, Wade Davis, Snehal Wani, Scott Chasalow
 
