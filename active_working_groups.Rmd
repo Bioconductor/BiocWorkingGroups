@@ -60,9 +60,9 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Leads: Claire Rioualen, Maria Doyle, Hervé Pagès
 - Current Members: Vince Carey, Hervé Menager, Lori Shepherd, Johannes Rainer, Kozo Nishida, Matúš Kalaš
 
-## Education
+## Training
 
-- Description: The Bioconductor teaching and education committee is a collaborative effort to consolidate Bioconductor-focused training material and establish a community of Bioconductor trainers. We define a curriculum and implement online lessons for beginner and more advanced R users who want to learn to analyse their data with Bioconductor packages.
+- Description: The Bioconductor training committee is a collaborative effort to consolidate Bioconductor-focused training material and establish a community of Bioconductor trainers. We define a curriculum and implement online lessons for beginner and more advanced R users who want to learn to analyse their data with Bioconductor packages.
 - Links: https://training.bioconductor.org
 - Zulip: #education-and-training
 - Leads: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht
