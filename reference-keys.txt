@@ -2,7 +2,6 @@ working-group-and-committee-guidelines
 currently-active-working-groups-committees
 biocasia
 classes-and-methods-recommendations
-cloud-methods
 code-of-conduct-1
 conference-planning
 edam-collaboration
@@ -24,6 +23,7 @@ needed-working-groups-committees
 developers-training
 industry
 publication
+cloud-methods
 inactive-working-groups
 package-review
 biocawards
