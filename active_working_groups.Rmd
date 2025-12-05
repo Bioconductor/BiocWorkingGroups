@@ -24,15 +24,6 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Current Members: Vince Carey, Laurent Gatto, Michael Lawrence, Marcel Ramos,
   Lluis Revilla, Dario Righelli, Lori Shepherd, Malte Thodberg, Tim Triche  
 
-## Cloud Methods
-
-- Description: The goal of this group is to develop standards and tools for the
-  Bioconductor community that are related to the cloud.
-- Zulip: #cloud-working-group
-- Leads: Erdal Cosgun
-- Current Members: Mike Smith, Levi Waldron, Tyrone Lee, Marcel Ramos, Brian Schilder, 
-  Alex Mahmoud, Jen Wokaty, Ludwig Geistlinger, Sean Davis, Vince Carey
-
 ## Code of Conduct
 
 - Description: The Code of Conduct Committee reviews and revises the
