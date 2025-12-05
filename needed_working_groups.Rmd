@@ -39,4 +39,13 @@ other relevent links.</p>
 - Leads: Susan Holmes
 - Current Members: Susan, Sean Davis,
 
+## Cloud Methods
+
+- Description: The goal of this group is to develop standards and tools for the
+  Bioconductor community that are related to the cloud.
+- Zulip: #cloud-working-group
+- Leads: Erdal Cosgun
+- Current Members: Mike Smith, Levi Waldron, Tyrone Lee, Marcel Ramos, Brian Schilder, 
+  Alex Mahmoud, Jen Wokaty, Ludwig Geistlinger, Sean Davis, Vince Carey
+
 
