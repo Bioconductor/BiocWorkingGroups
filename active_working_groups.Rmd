@@ -77,8 +77,8 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
   community expectations to prioritise future developments.
 - Links: https://github.com/lgatto/BiocMassSpecWorkingGroup
 - Zulip: #mass-spectrometry, #metabolomics, #proteomics
-- Leads: Laurent Gatto (TAB) and Johannes Rainer (CAB) 
-- Current Members: Lauent, Johannes. 
+- Leads: Laurent Gatto and Johannes Rainer (CAB) 
+- Current Members: Laurent, Johannes. 
 
 ## Multilingual
 
