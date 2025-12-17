@@ -20,7 +20,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
   integrate S7 framework.
 - Zulip: #biocclasses
 - Links: https://github.com/Bioconductor/BiocClassesWorkingGroup
-- Leads: Laurent Gatto, Michael Lawrence, Lori Shepherd
+- Leads: Michael Lawrence, Dario Righelli, Lori Shepherd
 - Current Members: Vince Carey, Laurent Gatto, Michael Lawrence, Marcel Ramos,
   Lluis Revilla, Dario Righelli, Lori Shepherd, Malte Thodberg, Tim Triche  
 
