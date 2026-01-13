@@ -6,6 +6,7 @@ code-of-conduct-1
 conference-planning
 edam-collaboration
 education
+hackathon-planning
 mass-spectrometry-for-proteomics-and-metabolomics
 multilingual
 code-of-conduct-translation
