@@ -60,6 +60,13 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Founding Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges, Susan Holmes
 - Current Members: Open to all. Join us! Details [here](https://www.bioconductor.org/help/education-training/).
 
+## Hackathon Planning
+
+- Description: Committee for planning recurring Bioconductor related hack-a-thon / code-a-thon events. 
+- Zulip: #hackathon-planning
+- Leads: Nicholas Cooley, Lori Kern
+- Current Members: Maria Doyle, Kevin Rue-Albrecht, Helena Crowell, Laurent Gatto, Lluis Revilla
+
 ## Mass Spectrometry for Proteomics and Metabolomics
 
 - Description: The goal of this working group is to identify members of the
