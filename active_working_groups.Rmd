@@ -10,7 +10,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Description: This group will primarily be involved with conference planning for the BiocAsia conference and seeks to formalise this as a Bioconductor Working Group
 - Zulip: #biocasia-conference-organization, #biocasia
 - Leads: Stevie Pederson, Stefano Mangiola
-- Current Members: Stevie, Stefano, Ellis Patrick, Peter Hickey, Kozo Nishida, Jiya Chaudhary, Manoj Wagle, Lori Shepherd
+- Current Members: Stevie Pederson, Stefano Mangiola, Ellis Patrick, Kozo Nishida, Malvika Kharbanda, Mansi Aggarwal, Zuguang Gu, Maria Doyle, Lori Shepherd
 
 ## Classes and Methods Recommendations
 
