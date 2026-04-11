@@ -48,4 +48,10 @@ other relevent links.</p>
 - Current Members: Mike Smith, Levi Waldron, Tyrone Lee, Marcel Ramos, Brian Schilder, 
   Alex Mahmoud, Jen Wokaty, Ludwig Geistlinger, Sean Davis, Vince Carey
 
+## Funding
 
+- Description: The goal of this group is to document existing Bioconductor-related 
+  and support collaboration for upcoming funding opportunities.
+- Zulip: #funding
+- Leads: Kevin Rue-Albrecht
+- Current Members: Eliana Ibrahimi
