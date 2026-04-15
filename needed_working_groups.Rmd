@@ -54,4 +54,4 @@ other relevent links.</p>
   and support collaboration for upcoming funding opportunities.
 - Zulip: #funding
 - Leads: Kevin Rue-Albrecht
-- Current Members: Eliana Ibrahimi
+- Current Members: Eliana Ibrahimi, Leo Lahti
