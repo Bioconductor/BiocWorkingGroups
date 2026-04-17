@@ -25,6 +25,7 @@ developers-training
 industry
 publication
 cloud-methods
+funding
 inactive-working-groups
 package-review
 biocawards
