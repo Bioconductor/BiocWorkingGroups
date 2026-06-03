@@ -78,6 +78,13 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Leads: Laurent Gatto and Johannes Rainer (CAB) 
 - Current Members: Laurent, Johannes. 
 
+## Microbiome
+
+- Description: This working group aims to faciliate collaboration in microbiome data science.
+- Zulip: #miaverse
+- Leads: Tuomas Borman
+- Current Members: Tuomas, participation of other members is yet to be confirmed. An informal Bioconductor working group for the microbiome project has already been active and may serve as a basis for this initiative.
+
 ## Multilingual
 
 - Description: The multiligual group is focused on translating and hosting
