@@ -8,6 +8,7 @@ edam-collaboration
 education
 hackathon-planning
 mass-spectrometry-for-proteomics-and-metabolomics
+microbiome
 multilingual
 code-of-conduct-translation
 french-translation-subgroup
