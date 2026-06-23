@@ -202,6 +202,6 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 
 - Description: This groups seeks to represent students and early career researchers both already in the Bioconductor community and those who might be interested but have not joined yet
 - Zulip: #student-ecr
-- Leads: Carissa Chen, Guillaume de Flandre, Jasper Spitzer, Sophie-Marie Wind
-- Founding Members: Carissa Chen, Guillaume de Flandre, Jasper Spitzer, Sophie-Marie Wind
+- Leads: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
+- Founding Members: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
 - Current Members: Open to all, please reach out in the Zulip Channel! We'll add a mail adress here as soon as we have one!
