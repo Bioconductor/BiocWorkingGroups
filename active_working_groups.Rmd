@@ -60,6 +60,15 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Founding Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges, Susan Holmes
 - Current Members: Open to all. Join us! Details [here](https://www.bioconductor.org/help/education-training/).
 
+
+## Early Career Council
+
+- Description: This groups seeks to represent students and early career researchers both already in the Bioconductor community and those who might be interested but have not joined yet
+- Zulip: #student-ecr
+- Leads: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
+- Founding Members: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
+- Current Members: Open to all, please reach out in the Zulip Channel! We'll add a mail adress here as soon as we have one!
+
 ## Hackathon Planning
 
 - Description: Committee for planning recurring Bioconductor related hack-a-thon / code-a-thon events. 
@@ -197,11 +206,3 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Zulip: #workflows
 - Leads: Michael Love
 - Current Members: Charlotte Soneson, Davide Risso, Lori Shepherd, Stevie Pederson, Susan Holmes, Ellis Patrick, Sean Davis, Aedin Culhane, Vince Carey, Janani Ravi, Woflgang Huber
-
-## Early Carrer Council
-
-- Description: This groups seeks to represent students and early career researchers both already in the Bioconductor community and those who might be interested but have not joined yet
-- Zulip: #student-ecr
-- Leads: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
-- Founding Members: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
-- Current Members: Open to all, please reach out in the Zulip Channel! We'll add a mail adress here as soon as we have one!
