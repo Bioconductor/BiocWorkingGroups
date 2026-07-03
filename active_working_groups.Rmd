@@ -51,15 +51,6 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Leads: Claire Rioualen, Maria Doyle, Hervé Pagès
 - Current Members: Vince Carey, Hervé Menager, Lori Shepherd, Johannes Rainer, Kozo Nishida, Matúš Kalaš
 
-## Education
-
-- Description: The Bioconductor teaching and education committee is a collaborative effort to consolidate Bioconductor-focused training material and establish a community of Bioconductor trainers. We define a curriculum and implement online lessons for beginner and more advanced R users who want to learn to analyse their data with Bioconductor packages.
-- Links: https://training.bioconductor.org
-- Zulip: #education-and-training
-- Leads: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht
-- Founding Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges, Susan Holmes
-- Current Members: Open to all. Join us! Details [here](https://www.bioconductor.org/help/education-training/).
-
 ## Hackathon Planning
 
 - Description: Committee for planning recurring Bioconductor related hack-a-thon / code-a-thon events. 
@@ -189,6 +180,15 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Zulip: #tess-integration
 - Leads: Maria Doyle
 - Current Members: Maria Doyle, Laurent Gatto (contact Maria on Zulip if interested to join this initiative)
+
+## Training
+
+- Description: The Bioconductor training committee is a collaborative effort to consolidate Bioconductor-focused training material and establish a community of Bioconductor trainers. We define a curriculum and implement online lessons for beginner and more advanced R users who want to learn to analyse their data with Bioconductor packages.
+- Links: https://training.bioconductor.org
+- Zulip: #education-and-training
+- Leads: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht
+- Founding Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges, Susan Holmes
+- Current Members: Open to all. Join us! Details [here](https://www.bioconductor.org/help/education-training/).
 
 ## Workflows
 
