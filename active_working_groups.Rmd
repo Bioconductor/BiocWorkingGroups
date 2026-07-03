@@ -10,7 +10,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Description: This group will primarily be involved with conference planning for the BiocAsia conference and seeks to formalise this as a Bioconductor Working Group
 - Zulip: #biocasia-conference-organization, #biocasia
 - Leads: Stevie Pederson, Stefano Mangiola
-- Current Members: Stevie, Stefano, Ellis Patrick, Peter Hickey, Kozo Nishida, Jiya Chaudhary, Manoj Wagle, Lori Shepherd
+- Current Members: Stevie Pederson, Stefano Mangiola, Ellis Patrick, Kozo Nishida, Malvika Kharbanda, Mansi Aggarwal, Zuguang Gu, Maria Doyle, Lori Shepherd
 
 ## Classes and Methods Recommendations
 
@@ -20,18 +20,9 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
   integrate S7 framework.
 - Zulip: #biocclasses
 - Links: https://github.com/Bioconductor/BiocClassesWorkingGroup
-- Leads: Laurent Gatto, Michael Lawrence, Lori Shepherd
+- Leads: Michael Lawrence, Dario Righelli, Lori Shepherd
 - Current Members: Vince Carey, Laurent Gatto, Michael Lawrence, Marcel Ramos,
   Lluis Revilla, Dario Righelli, Lori Shepherd, Malte Thodberg, Tim Triche  
-
-## Cloud Methods
-
-- Description: The goal of this group is to develop standards and tools for the
-  Bioconductor community that are related to the cloud.
-- Zulip: #cloud-working-group
-- Leads: Erdal Cosgun
-- Current Members: Mike Smith, Levi Waldron, Tyrone Lee, Marcel Ramos, Brian Schilder, 
-  Alex Mahmoud, Jen Wokaty, Ludwig Geistlinger, Sean Davis, Vince Carey
 
 ## Code of Conduct
 
@@ -60,6 +51,13 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Leads: Claire Rioualen, Maria Doyle, Hervé Pagès
 - Current Members: Vince Carey, Hervé Menager, Lori Shepherd, Johannes Rainer, Kozo Nishida, Matúš Kalaš
 
+## Hackathon Planning
+
+- Description: Committee for planning recurring Bioconductor related hack-a-thon / code-a-thon events. 
+- Zulip: #hackathon-planning
+- Leads: Nicholas Cooley, Lori Kern
+- Current Members: Maria Doyle, Kevin Rue-Albrecht, Helena Crowell, Laurent Gatto, Lluis Revilla
+
 ## Mass Spectrometry for Proteomics and Metabolomics
 
 - Description: The goal of this working group is to identify members of the
@@ -68,8 +66,15 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
   community expectations to prioritise future developments.
 - Links: https://github.com/lgatto/BiocMassSpecWorkingGroup
 - Zulip: #mass-spectrometry, #metabolomics, #proteomics
-- Leads: Laurent Gatto (TAB) and Johannes Rainer (CAB) 
-- Current Members: Lauent, Johannes. 
+- Leads: Laurent Gatto and Johannes Rainer (CAB) 
+- Current Members: Laurent, Johannes. 
+
+## Microbiome
+
+- Description: This working group aims to faciliate collaboration in microbiome data science.
+- Zulip: #miaverse
+- Leads: Tuomas Borman
+- Current Members: Tuomas, participation of other members is yet to be confirmed. An informal Bioconductor working group for the microbiome project has already been active and may serve as a basis for this initiative.
 
 ## Multilingual
 
