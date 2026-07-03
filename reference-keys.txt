@@ -5,7 +5,6 @@ classes-and-methods-recommendations
 code-of-conduct-1
 conference-planning
 edam-collaboration
-education
 hackathon-planning
 mass-spectrometry-for-proteomics-and-metabolomics
 microbiome
@@ -20,6 +19,7 @@ r-ladies-and-bioc
 social-media
 spatial-transcriptomics
 tess
+training
 workflows
 needed-working-groups-committees
 developers-training
