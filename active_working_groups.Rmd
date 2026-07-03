@@ -51,6 +51,13 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Leads: Claire Rioualen, Maria Doyle, Hervé Pagès
 - Current Members: Vince Carey, Hervé Menager, Lori Shepherd, Johannes Rainer, Kozo Nishida, Matúš Kalaš
 
+## FAIR data sharing
+
+- Description: FAIR is defined as Findable, Accessible, Interoperable, and Reusable. This group aims to help users share Bioconductor objects in a way that is interoperable and reusable across language and over time. This group will work on recommendations and documentation/workshops that discuss the pros and cons of various alternatives to saving with base R, e.g. save() and saveRDS(), aimed at beginner Bioconductor users. It will also discuss future directions of software projects within Bioconductor and from other open source communities, related to sharing rich datasets.
+- Zulip: `#fair-data-sharing`
+- Leads: Michael Love, Kevin Rue-Albrecht
+- Current Members: Michael Love, Kevin Rue-Albrecht, Jayaram Kancherla, Lori Shepherd
+
 ## Hackathon Planning
 
 - Description: Committee for planning recurring Bioconductor related hack-a-thon / code-a-thon events. 
