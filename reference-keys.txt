@@ -5,6 +5,7 @@ classes-and-methods-recommendations
 code-of-conduct-1
 conference-planning
 edam-collaboration
+fair-data-sharing
 hackathon-planning
 mass-spectrometry-for-proteomics-and-metabolomics
 microbiome
