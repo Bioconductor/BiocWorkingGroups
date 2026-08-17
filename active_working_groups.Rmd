@@ -44,14 +44,6 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Leads: Erica Feick
 - Current Members: Charlotte Soneson, Jenny D, Jenny S, Lori, Marc, Andrew, Daniela, Matt, Mikhail, Samuel, Krithika, Sean, Wes
 
-## Early Career Council
-
-- Description: This groups seeks to represent students and early career researchers both already in the Bioconductor community and those who might be interested but have not joined yet
-- Zulip: #student-ecr
-- Leads: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
-- Founding Members: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
-- Current Members: Open to all, please reach out in the Zulip Channel! We'll add a mail adress here as soon as we have one!
-
 ## EDAM collaboration
 
 - Description: This group unites EDAM and Bioconductor community members to explore indexing the Bioconductor ecosystem using the [EDAM ontology](https://edamontology.org/). Our working group's objectives include increasing the visibility of Bioconductor packages to a broader audience, including those not primarily using R, and expanding EDAM as a standard for annotating computational biology resources. Through this collaboration, we aim to synergize two large, international communities focused on open science. Future plans may include exploring connections with bio.tools, Bioschemas, and TeSS. If you're interested in contributing or want to learn more, join us on [Bioconductor Zulip](https://chat.bioconductor.org).
@@ -188,6 +180,14 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Zulip: #spatial #spatial-interoperability #spatialdata-devel #image-analysis
 - Lead: Helena Crowell
 - Members: Artür Manukyan, Ellis Patrick, Dario Righelli, Davide Risso, Gabriel Grajeda, Ludwig Geistlinger, Ludwig Geistlinger, Lukas Weber, Mark Robinson, Martin Emons, Phillip Nicol, Samuel Gunz, Shila Ghazanfar, Stephanie Hicks, Yixing Estella Dong
+
+## Student - ECR Council
+
+- Description: This groups seeks to represent students and early career researchers both already in the Bioconductor community and those who might be interested but have not joined yet
+- Zulip: #student-ecr
+- Leads: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
+- Founding Members: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
+- Current Members: Open to all, please reach out in the Zulip Channel! We also have an email address where were happy to recieve any input: student-ecr@bioconductor.org!
 
 ## TeSS
 
