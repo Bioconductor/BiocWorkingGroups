@@ -44,6 +44,13 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Leads: Erica Feick
 - Current Members: Charlotte Soneson, Jenny D, Jenny S, Lori, Marc, Andrew, Daniela, Matt, Mikhail, Samuel, Krithika, Sean, Wes
 
+## Cytometry
+
+- Description: This group brings together users and developers of the Bioconductor cytometry packages (including conventional, spectral, imaging, and mass cytometry), to collaboratively improve documentation and ensure the long-term maintenance of these essential community tools.
+- Zulip: #cytometry
+- Leads: David Rach
+- Current Members: David Rach, Wes Wilson.
+
 ## Early Career Council
 
 - Description: This groups seeks to represent students and early career researchers both already in the Bioconductor community and those who might be interested but have not joined yet
