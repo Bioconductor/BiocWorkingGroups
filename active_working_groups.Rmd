@@ -196,6 +196,14 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Lead: Helena Crowell
 - Members: Artür Manukyan, Ellis Patrick, Dario Righelli, Davide Risso, Gabriel Grajeda, Ludwig Geistlinger, Ludwig Geistlinger, Lukas Weber, Mark Robinson, Martin Emons, Phillip Nicol, Samuel Gunz, Shila Ghazanfar, Stephanie Hicks, Yixing Estella Dong
 
+## Student - ECR Council
+
+- Description: This groups seeks to represent students and early career researchers both already in the Bioconductor community and those who might be interested but have not joined yet
+- Zulip: #student-ecr
+- Leads: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
+- Founding Members: Carissa Chen, Guillaume Deflandre, Jasper Spitzer, Sophie-Marie Wind
+- Current Members: Open to all, please reach out in the Zulip Channel! We also have an email address where were happy to recieve any input: student-ecr@bioconductor.org!
+
 ## TeSS
 
 - Description: This group focuses on enhancing the connectivity and integration between the [TeSS (Training eSupport System)](https://tess.elixir-europe.org) portal and the Bioconductor project. Our objectives include implementing Bioschemas for Bioconductor training material and events to improve their discoverability and accessibility via TeSS (https://tess.elixir-europe.org/content_providers/bioconductor). We aim to strengthen the bridge between these platforms, facilitating easier access to Bioconductor training resources.
