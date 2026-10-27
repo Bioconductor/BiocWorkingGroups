@@ -184,6 +184,20 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Leads: Maria Doyle
 - Current Members: Laurent Gatto, Susan Holmes, Federica Gazzelloni, İrem Kahveci, Hamdi Furkan Kepenek, Xueyi Dong, Shixiang Wang, Kozo Nishida
 
+## Software Sustainability
+
+- Description: This working group focuses on health and security of Bioconductor
+  software packages. Members identify which packages are most important to keep
+  available and which fixes matter most for ecosystem health. Activities may
+  include "rescuing" valuable packages that would otherwise be removed due to
+  inactive maintenance, developing metrics to decide between deprecation and
+  rescue, and proposing security and bug fixes to active maintainers. The
+  group uses coding agents where they help sustain the software.
+- Links: https://github.com/bioc-package-rescue
+- Zulip: #sustainability (proposed)
+- Leads: Marcel Ramos
+- Current Members: Levi Waldron
+
 ## Spatial (Transcript)omics
 
 - Description: We hope to discuss, identify, and coordinate efforts to address
