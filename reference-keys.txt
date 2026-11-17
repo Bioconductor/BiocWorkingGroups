@@ -20,6 +20,7 @@ package-build-report-triage
 package-reviews
 r-ladies-and-bioc
 social-media
+software-sustainability
 spatial-transcriptomics
 tess
 training
