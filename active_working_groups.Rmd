@@ -1,4 +1,4 @@
-# Currently Active Working Groups / Committees 
+# Currently Active Working Groups / Committees
 
 The following describe currently active working groups listed in alphabetical
 order. If you are interested in becoming involved with one of these groups
@@ -22,7 +22,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Links: https://github.com/Bioconductor/BiocClassesWorkingGroup
 - Leads: Michael Lawrence, Dario Righelli, Lori Shepherd
 - Current Members: Vince Carey, Laurent Gatto, Michael Lawrence, Marcel Ramos,
-  Lluis Revilla, Dario Righelli, Lori Shepherd, Malte Thodberg, Tim Triche  
+  Lluis Revilla, Dario Righelli, Lori Shepherd, Malte Thodberg, Tim Triche
 
 ## Code of Conduct
 
@@ -75,7 +75,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 
 ## Hackathon Planning
 
-- Description: Committee for planning recurring Bioconductor related hack-a-thon / code-a-thon events. 
+- Description: Committee for planning recurring Bioconductor related hack-a-thon / code-a-thon events.
 - Zulip: #hackathon-planning
 - Leads: Nicholas Cooley, Lori Kern
 - Current Members: Maria Doyle, Kevin Rue-Albrecht, Helena Crowell, Laurent Gatto, Lluis Revilla
@@ -88,8 +88,8 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
   community expectations to prioritise future developments.
 - Links: https://github.com/lgatto/BiocMassSpecWorkingGroup
 - Zulip: #mass-spectrometry, #metabolomics, #proteomics
-- Leads: Laurent Gatto and Johannes Rainer (CAB) 
-- Current Members: Laurent, Johannes. 
+- Leads: Laurent Gatto and Johannes Rainer (CAB)
+- Current Members: Laurent, Johannes.
 
 ## Microbiome
 
@@ -104,7 +104,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
   Bioconductor material in multiple languages. Help is always appreciated!
 - Zulip: #documentation-translation
 
-### Code of Conduct Translation  
+### Code of Conduct Translation
 - Links: [CoC](https://github.com/Bioconductor/bioc_coc_multilingual), [talks_and_transcripts](https://github.com/BioconductorBoards/CABWorkingGroups/tree/main/talks_and_transcripts)
 - Leads: Leonardo Collado-Torres, Kozo Nishida, Daniela Cassol, Kevin Rue-Albrecht, Dario Righelli.
 
@@ -146,7 +146,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
   reports. The core team has found that sending personalized emails greatly
   increases the likelihood of a maintainer to fix the package.
 - Links: https://bioconductor.org/checkResults/
-- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> 
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
 - Current Members: I need more members! Please email or contact on Zulip if interested
 
 ## Package Reviews
@@ -159,7 +159,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
   [Contribution Guidelines](https://contributions.bioconductor.org/),
   [Submission Queue](https://github.com/Bioconductor/Contributions/issues)
 - Zulip: #package-submission, #reviewers
-- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org> 
+- Leads: Lori Shepherd <Lori.Shepherd@RoswellPark.org>
 - Current Members: Helena Crowell, Peter Hickey, Kayla Interdonato, Jianhong Oh,
   Herve Pages, Marcel Ramos, Mireia Ramos-Rodriguez, Jacques Serizay, Dario
   Strbenac
@@ -179,7 +179,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 ## Social Media
 
 - Description: Group for creating Bioconductor strategy, guidelines etc for social media (Blog, Twitter, Mastodon, YouTube, LinkedIn, Instagram, TikTok, Bilibili, WeChat, Weibo...).
-- Links: 
+- Links:
 - Zulip: #social-media
 - Leads: Maria Doyle
 - Current Members: Laurent Gatto, Susan Holmes, Federica Gazzelloni, İrem Kahveci, Hamdi Furkan Kepenek, Xueyi Dong, Shixiang Wang, Kozo Nishida
@@ -196,7 +196,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Links: https://github.com/bioc-package-rescue
 - Zulip: #sustainability (proposed)
 - Leads: Marcel Ramos
-- Current Members: Levi Waldron
+- Current Members: Levi Waldron, Sean Davis
 
 ## Spatial (Transcript)omics
 
@@ -205,7 +205,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
   standardized and language-agnostic file formats, cross-framework and -language
   interoperability, handling data across modalities and coordinate systems,
   visualization etc.
-- Links: 
+- Links:
 - Zulip: #spatial #spatial-interoperability #spatialdata-devel #image-analysis
 - Lead: Helena Crowell
 - Members: Artür Manukyan, Ellis Patrick, Dario Righelli, Davide Risso, Gabriel Grajeda, Ludwig Geistlinger, Ludwig Geistlinger, Lukas Weber, Mark Robinson, Martin Emons, Phillip Nicol, Samuel Gunz, Shila Ghazanfar, Stephanie Hicks, Yixing Estella Dong
@@ -228,7 +228,7 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 
 ## Workflows
 
-- Description: This group is focussed on updating and rebranding Bioconductor Workflows as well as streamlining arrangements with an external publisher, specifically for workflows. 
+- Description: This group is focussed on updating and rebranding Bioconductor Workflows as well as streamlining arrangements with an external publisher, specifically for workflows.
 - Links:
 - Zulip: #workflows
 - Leads: Michael Love
