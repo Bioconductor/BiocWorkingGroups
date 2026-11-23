@@ -73,6 +73,11 @@ please contact the group leader(s) on [Bioconductor Zulip](https://chat.biocondu
 - Leads: Michael Love, Kevin Rue-Albrecht
 - Current Members: Michael Love, Kevin Rue-Albrecht, Jayaram Kancherla, Lori Shepherd
 
+## Finnish Bioconductor community
+
+- Description: This working group supports the Finnish Bioconductor community by giving community members opportunities to meet up and by making Bioconductor more visible in Finland. In collaboration with the Finnish Society for Bioinformatics, we join the Society’s regular bioinformatics meetups in different cities and organize a Bioconductor meetup at the annual Bioinformatics Day event.
+- Leads: [The Finnish Society for Bioinformatics](https://bioinf.fi/), Tuomas Borman
+
 ## Hackathon Planning
 
 - Description: Committee for planning recurring Bioconductor related hack-a-thon / code-a-thon events.
