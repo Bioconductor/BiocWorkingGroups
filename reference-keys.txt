@@ -8,6 +8,7 @@ cytometry
 early-career-council
 edam-collaboration
 fair-data-sharing
+finnish-bioconductor-community
 hackathon-planning
 mass-spectrometry-for-proteomics-and-metabolomics
 microbiome
